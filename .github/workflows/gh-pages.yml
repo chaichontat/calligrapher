@@ -3,27 +3,34 @@ name: GitHub Pages
 on:
   push:
     branches:
-      - main # Set a branch name to trigger deployment
+      - main
   pull_request:
 
 jobs:
   deploy:
-    runs-on: ubuntu-20.04
-    concurrency:
-      group: ${{ github.workflow }}-${{ github.ref }}
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-        with:
-          submodules: true # Fetch Hugo themes (true OR recursive)
-          fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
+      - uses: r-lib/actions/setup-r@v1
+      - uses: r-lib/actions/setup-pandoc@v1
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: "0.85.0"
+      - name: Query dependencies
+        run: |
+          options(Ncpus = 2)
+          install.packages('distill')
+        shell: Rscript {0}
 
-      - name: Build
-        run: hugo --minify
+      - name: Restore R package cache
+        uses: actions/cache@v2
+        with:
+          path: ${{ env.R_LIBS_USER }}
+          key: ${{ runner.os }}-${{ hashFiles('.github/R-version') }}-1-${{ hashFiles('.github/depends.Rds') }}
+          restore-keys: ${{ runner.os }}-${{ hashFiles('.github/R-version') }}-1-
+
+      - name: Render
+        run: |
+          rmarkdown::render("Untitled.Rmd", output_dir = "./public")
+        shell: Rscript {0}
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
