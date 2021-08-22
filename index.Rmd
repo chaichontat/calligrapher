@@ -11,7 +11,9 @@ date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
 
-Distill is a publication format for scientific and technical writing, native to the web. 
+Distill is a publication format for scientific and technical writing, native to the web.
+
+OMG what is going on.
 
 Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
 
