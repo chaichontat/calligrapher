@@ -29,7 +29,7 @@ jobs:
 
       - name: Render
         run: |
-          rmarkdown::render("Untitled.Rmd", output_dir = "./public")
+          rmarkdown::render("index.Rmd", output_dir = "./public")
         shell: Rscript {0}
 
       - name: Deploy
