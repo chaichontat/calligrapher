@@ -13,7 +13,7 @@ output: distill::distill_article
 
 Distill is a publication format for scientific and technical writing, native to the web.
 
-OMG what is going on.
+Somehow this works.
 
 Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
 
