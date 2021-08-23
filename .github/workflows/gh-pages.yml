@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+  pull_request:
 
 jobs:
   deploy:
@@ -32,6 +33,13 @@ jobs:
         shell: Rscript {0}
         env:
           LANG: en_US.UTF-8
+
+      - name: "Upload Artifact"
+        uses: actions/upload-artifact@v2
+        with:
+          name: HTML
+          path: public/index.html
+          retention-days: 7
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
