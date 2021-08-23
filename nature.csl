@@ -105,7 +105,7 @@
     <sort>
       <key variable="citation-number"/>
     </sort>
-    <layout vertical-align="sup" delimiter=",">
+    <layout prefix="[" suffix="]" vertical-align="baseline" delimiter=", ">
       <text variable="citation-number"/>
     </layout>
   </citation>
@@ -113,7 +113,7 @@
     <layout suffix=".">
       <text variable="citation-number" suffix="."/>
       <group delimiter=" ">
-        <text macro="author" suffix="."/>
+        <text macro="author" suffix="." font-weight="bold"/> 
         <text macro="title" suffix="."/>
         <choose>
           <if type="chapter paper-conference" match="any">

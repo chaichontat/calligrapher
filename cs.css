@@ -24,10 +24,61 @@ html {
   --aside-color: rgba(0, 0, 0, 0.6);
   --fig-cap-color: rgba(0, 0, 0, 0.6);
   /*-- Specify custom fonts ~~~ must be imported above   --*/
-  --heading-font: sans-serif;
+  --heading-font: -apple-system, BlinkMacSystemFont, "Roboto", Helvetica, sans-serif;
   --mono-font: monospace;
-  --body-font: sans-serif;
-  --navbar-font: sans-serif; /* websites + blogs only */
+  --body-font: -apple-system, BlinkMacSystemFont, "Roboto", Helvetica, sans-serif;
+  --navbar-font: -apple-system, BlinkMacSystemFont, "Roboto", Helvetica, sans-serif; /* websites + blogs only */
+}
+
+d-article a {
+  color: hsla(205, 100%, 25%, 0.8);
+  transition: color 0.2s ease;
+  text-decoration: none;
+}
+
+d-article a:hover {
+  color: rgb(128, 0, 73);
+}
+
+d-article .citation {
+  cursor: default;
+  white-space: nowrap;
+  color: hsla(205, 100%, 25%, 0.8);
+  font-size: 75%;
+  display: inline-block;
+  line-height: 1.1em;
+  text-align: center;
+  position: relative;
+  top: -2px;
+  margin: 0 2px;
+}
+
+d-article .citation a {
+  border-bottom: none;
+}
+
+.tippy-box {
+  padding: 8px;
+  font-size: 15px !important;
+  line-height: 1.6 !important;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  background-color: rgba(250, 250, 250, 0.95) !important;
+
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+}
+
+.tippy-box > .tippy-arrow:before {
+  border-top-color: rgba(250, 250, 250, 1) !important;
+}
+
+.csl-right-inline a {
+  color: hsla(222, 96%, 35%, 0.7);
+}
+
+d-appendix h3 {
+  margin-top: 12px !important;
+  margin-left: auto;
 }
 
 /*-- ARTICLE METADATA --*/

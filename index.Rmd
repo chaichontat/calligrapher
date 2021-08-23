@@ -1,23 +1,26 @@
 ---
 title: "Untitled"
-description: |
-  A new article created using the Distill format.
+# description: |
+#   A new article created using the Distill format.
 author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
+  - name: Chaichontat Sriworarat
+    affiliation: Johns Hopkins University
 date: "`r Sys.Date()`"
-output: distill::distill_article
+bibliography: references.bib
+csl: nature.csl
+output:
+  distill::distill_article:
+    toc: true
+    theme: cs.css
+  # tufte::tufte_handout: default
 ---
 
 Distill is a publication format for scientific and technical writing, native to the web.
 
+## Subsection
+
 Somehow this works.
 
-Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
+Learn more about using [Distill](https://rstudio.github.io/distill) for R Markdown.
 
-
-
-
-
+Very interesting [@amirthalingamHigherSerologicalresponses2021; @tangBNT162b2MRNA1273COVID192021].
