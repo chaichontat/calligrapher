@@ -6,7 +6,7 @@ author:
   - name: Chaichontat Sriworarat
     affiliation: Johns Hopkins University
 date: "`r Sys.Date()`"
-bibliography: public/references.bib
+bibliography: references.bib
 csl: theme/nature.csl
 output:
   distill::distill_article:
