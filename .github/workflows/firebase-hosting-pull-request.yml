@@ -32,6 +32,8 @@ jobs:
         run: |
           rmarkdown::render("index.Rmd", output_dir = "./public")
         shell: Rscript {0}
+        env:
+          LANG: en_US.UTF-8
 
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
