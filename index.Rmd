@@ -6,12 +6,12 @@ author:
   - name: Chaichontat Sriworarat
     affiliation: Johns Hopkins University
 date: "`r Sys.Date()`"
-bibliography: references.bib
-csl: nature.csl
+bibliography: public/references.bib
+csl: theme/nature.csl
 output:
   distill::distill_article:
     toc: true
-    theme: cs.css
+    theme: theme/cs.css
   # tufte::tufte_handout: default
 ---
 
