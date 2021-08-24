@@ -13,6 +13,7 @@ RUN R -e "tinytex::tlmgr('install changepage ifmtarg paralist placeins sauerj tu
 # In order to use pdfcrop.
 ENV PATH="/root/.TinyTeX/bin/x86_64-linux:${PATH}"
 
-RUN mkdir /working
-WORKDIR /working
-ENTRYPOINT [ "bash" ]
+RUN mkdir -p /github/workspace
+WORKDIR /github/workspace
+
+ENTRYPOINT r -e "rmarkdown::render(\"index.Rmd\", output_dir = \"./public\", output_format = \"all\")"
