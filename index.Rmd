@@ -12,7 +12,7 @@ output:
   distill::distill_article:
     toc: true
     theme: theme/cs.css
-  # tufte::tufte_handout: default
+  tufte::tufte_handout: default
 ---
 
 Distill is a publication format for scientific and technical writing, native to the web.
