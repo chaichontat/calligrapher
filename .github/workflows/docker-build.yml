@@ -38,7 +38,7 @@ jobs:
 
       - name: Run Docker
         run: |
-          docker run chaichontat/calligrapher:latest
+          docker run ghcr.io/chaichontat/calligrapher:latest
 
       - name: Upload artifact
         uses: actions/upload-artifact@v2
