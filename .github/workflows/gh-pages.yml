@@ -21,7 +21,7 @@ jobs:
       - name: "Upload Artifact"
         uses: actions/upload-artifact@v2
         with:
-          name: HTML
+          name: index.html
           path: public/index.html
           retention-days: 7
 
@@ -32,9 +32,20 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
 
+  firebase:
+    needs: deploy
+    runs-on: ubuntu-latest
+    if: "${{ github.event.pull_request.head.repo.full_name == github.repository }}"
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Download Artifact
+        uses: actions/download-artifact@v2
+        with:
+          name: index.html
+
       - name: Deploy to Firebase for PR
         uses: FirebaseExtended/action-hosting-deploy@v0
-        if: "${{ github.event.pull_request.head.repo.full_name == github.repository }}"
         with:
           repoToken: "${{ secrets.GITHUB_TOKEN }}"
           firebaseServiceAccount: "${{ secrets.FIREBASE_SERVICE_ACCOUNT_GITHUB_PAGES_C50B1 }}"
