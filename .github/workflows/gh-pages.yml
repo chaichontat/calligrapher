@@ -21,8 +21,8 @@ jobs:
       - name: "Upload Artifact"
         uses: actions/upload-artifact@v2
         with:
-          name: index.html
-          path: public/index.html
+          name: Web
+          path: public/**
           retention-days: 7
 
       - name: Deploy to GitHub Pages
@@ -42,7 +42,8 @@ jobs:
       - name: Download Artifact
         uses: actions/download-artifact@v2
         with:
-          name: index.html
+          name: Web
+          path: public/
 
       - name: Deploy to Firebase for PR
         uses: FirebaseExtended/action-hosting-deploy@v0
