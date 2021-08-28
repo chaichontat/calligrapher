@@ -24,7 +24,8 @@ jobs:
       - name: Query dependencies
         run: |
           options(Ncpus = 2)
-          install.packages('distill')
+          install.packages('devtools')
+          devtools::install_github('rstudio/distill@33f858a0e56cd083d55d8ff8df2ed7eecd27372a')
         shell: Rscript {0}
 
       - name: Render
