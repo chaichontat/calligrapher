@@ -19,4 +19,4 @@ ENV PATH="/root/.TinyTeX/bin/x86_64-linux:${PATH}"
 RUN mkdir -p /github/workspace
 WORKDIR /github/workspace
 
-ENTRYPOINT /bin/bash
+CMD r -e "rmarkdown::render(\"index.Rmd\", output_dir = \"./public\", output_format = \"all\")"

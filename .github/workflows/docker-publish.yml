@@ -22,7 +22,7 @@ env:
   IMAGE_NAME: ${{ github.repository }}
 
 jobs:
-  build:
+  build_and_run:
     runs-on: ubuntu-latest
     permissions:
       contents: read
@@ -63,37 +63,33 @@ jobs:
 
       # Build and push Docker image with Buildx (don't push on PR)
       # https://github.com/docker/build-push-action
-      - name: Build and push Docker image
+      - name: Build Docker image
         uses: docker/build-push-action@v2
         with:
           context: .
-          push: ${{ github.event_name != 'pull_request' }}
+          load: true # Send to local Docker instance
+          # push: ${{ github.event_name != 'pull_request' }}
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
           cache-from: type=local,src=/tmp/.buildx-cache
           cache-to: type=local,dest=/tmp/.buildx-cache
 
-  run:
-    needs: build
-    runs-on: ubuntu-latest
-    container:
-      image: ghcr.io/chaichontat/calligrapher:main
-    steps:
-      - uses: actions/checkout@v2
+      - name: Run
+        run: docker run -i -v $PWD:/github/workspace ${{ steps.meta.outputs.tags }}
 
-      - name: Build
-        run: |
-          r -e "rmarkdown::render(\"index.Rmd\", output_dir = \"./public\", output_format = \"all\")"
-
-      - name: "Upload Artifact"
+      - name: Upload Artifact
         uses: actions/upload-artifact@v2
         with:
           name: Web
           path: public/**
           retention-days: 7
 
+      - name: Push Docker image
+        if: github.event_name != 'pull_request'
+        run: docker push ${{ steps.meta.outputs.tags }}
+
   deploy:
-    needs: run
+    needs: build_and_run
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
