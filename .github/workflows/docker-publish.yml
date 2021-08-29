@@ -77,7 +77,7 @@ jobs:
     needs: build
     runs-on: ubuntu-latest
     container:
-      image: ghcr.io/chaichontat/pages_test:main
+      image: ghcr.io/chaichontat/calligrapher:main
     steps:
       - uses: actions/checkout@v2
 
