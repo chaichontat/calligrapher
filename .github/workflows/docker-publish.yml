@@ -45,7 +45,7 @@ jobs:
 
       - name: Cache Docker layers
         uses: actions/cache@v2
-        if: github.event_name == 'pull_request'
+        if: github.event_name != 'schedule'
         with:
           path: /tmp/.buildx-cache
           key: ${{ runner.os }}-buildx-${{ hashFiles('Dockerfile') }}-${{ github.sha }}
@@ -56,7 +56,7 @@ jobs:
       # https://github.com/docker/build-push-action
       - name: Build Docker image WITH cache
         uses: docker/build-push-action@v2
-        if: github.event_name == 'pull_request'
+        if: github.event_name != 'schedule'
         with:
           context: .
           load: true # Send to local Docker instance
@@ -68,7 +68,7 @@ jobs:
 
       - name: Build Docker image WITHOUT cache
         uses: docker/build-push-action@v2
-        if: github.event_name != 'pull_request'
+        if: github.event_name == 'schedule'
         with:
           context: .
           load: true
