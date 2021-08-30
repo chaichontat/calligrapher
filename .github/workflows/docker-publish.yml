@@ -113,15 +113,15 @@ jobs:
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
-        if: ${{ github.ref == 'refs/heads/main' }}
+        if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: public
 
       - name: Deploy to Firebase for PR
         uses: FirebaseExtended/action-hosting-deploy@v0
-        if: "${{ github.event.pull_request.head.repo.full_name == github.repository }}"
+        if: github.event.pull_request.head.repo.full_name == github.repository
         with:
-          repoToken: "${{ secrets.GITHUB_TOKEN }}"
-          firebaseServiceAccount: "${{ secrets.FIREBASE_SERVICE_ACCOUNT_GITHUB_PAGES_C50B1 }}"
+          repoToken: ${{ secrets.GITHUB_TOKEN }}
+          firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_GITHUB_PAGES_C50B1 }}
           projectId: github-pages-c50b1
