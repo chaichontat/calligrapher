@@ -1,0 +1,61 @@
+name: GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+env:
+  # Use docker.io for Docker Hub if empty
+  REGISTRY: ghcr.io
+  # github.repository as <account>/<repo>
+  IMAGE_NAME: chaichontat/calligrapher:main
+  FIREBASE_PROJECT_ID: github-pages-c50b1
+  FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_GITHUB_PAGES_C50B1 }}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    container:
+      image: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Build
+        run: |
+          r -e "rmarkdown::render(\"index.Rmd\", output_dir = \"./public\", output_format = \"all\")"
+
+      - name: "Upload Artifact"
+        uses: actions/upload-artifact@v2
+        with:
+          name: Web
+          path: public/**
+          retention-days: 7
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Download Artifact
+        uses: actions/download-artifact@v2
+        with:
+          name: Web
+          path: public/
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        if: github.ref == 'refs/heads/main'
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: public
+
+      - name: Deploy to Firebase for PR
+        uses: FirebaseExtended/action-hosting-deploy@v0
+        if: github.event_name == 'pull_request'
+        with:
+          repoToken: ${{ secrets.GITHUB_TOKEN }}
+          firebaseServiceAccount: ${{ env.FIREBASE_SERVICE_ACCOUNT }}
+          projectId: ${{ env.FIREBASE_PROJECT_ID }}
