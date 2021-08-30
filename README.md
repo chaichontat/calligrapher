@@ -4,6 +4,6 @@ A Docker container to render Rmarkdown documents into a [`distill`](https://rstu
 
 To use
 ```shell
-docker pull ghcr.io/chaichontat/pages_test:main
+docker pull ghcr.io/chaichontat/calligrapher:main
 ```
 
