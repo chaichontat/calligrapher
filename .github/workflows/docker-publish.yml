@@ -20,6 +20,8 @@ env:
   REGISTRY: ghcr.io
   # github.repository as <account>/<repo>
   IMAGE_NAME: ${{ github.repository }}
+  FIREBASE_PROJECT_ID: github-pages-c50b1
+  FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_GITHUB_PAGES_C50B1 }}
 
 jobs:
   build_and_run:
@@ -76,7 +78,7 @@ jobs:
           labels: ${{ steps.meta.outputs.labels }}
 
       - name: Run
-        run: docker run -i -v $PWD:/github/workspace ${{ steps.meta.outputs.tags }}
+        run: docker run -i -v ${{ github.workspace }}:/github/workspace ${{ steps.meta.outputs.tags }}
 
       - name: Upload Artifact
         uses: actions/upload-artifact@v2
@@ -120,8 +122,8 @@ jobs:
 
       - name: Deploy to Firebase for PR
         uses: FirebaseExtended/action-hosting-deploy@v0
-        if: github.event.pull_request.head.repo.full_name == github.repository
+        if: github.event_name == 'pull_request'
         with:
           repoToken: ${{ secrets.GITHUB_TOKEN }}
-          firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_GITHUB_PAGES_C50B1 }}
-          projectId: github-pages-c50b1
+          firebaseServiceAccount: ${{ env.FIREBASE_SERVICE_ACCOUNT }}
+          projectId: ${{ env.FIREBASE_PROJECT_ID }}
