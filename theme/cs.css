@@ -12,8 +12,8 @@
 
 html {
   /*-- Main font sizes --*/
-  --title-size: 50px;
-  --body-size: 1.06rem;
+  --title-size: 40px;
+  --body-size: 16px;
   --code-size: 14px;
   --aside-size: 12px;
   --fig-cap-size: 13px;
@@ -30,57 +30,6 @@ html {
   --navbar-font: -apple-system, BlinkMacSystemFont, "Roboto", Helvetica, sans-serif; /* websites + blogs only */
 }
 
-d-article a {
-  color: hsla(205, 100%, 25%, 0.8);
-  transition: color 0.2s ease;
-  text-decoration: none;
-}
-
-d-article a:hover {
-  color: rgb(128, 0, 73);
-}
-
-d-article .citation {
-  cursor: default;
-  white-space: nowrap;
-  color: hsla(205, 100%, 25%, 0.8);
-  font-size: 75%;
-  display: inline-block;
-  line-height: 1.1em;
-  text-align: center;
-  position: relative;
-  top: -2px;
-  margin: 0 2px;
-}
-
-d-article .citation a {
-  border-bottom: none;
-}
-
-.tippy-box {
-  padding: 8px;
-  font-size: 15px !important;
-  line-height: 1.6 !important;
-  border: 1px solid rgba(0, 0, 0, 0.08);
-  background-color: rgba(250, 250, 250, 0.95) !important;
-
-  backdrop-filter: blur(4px);
-  -webkit-backdrop-filter: blur(4px);
-}
-
-.tippy-box > .tippy-arrow:before {
-  border-top-color: rgba(250, 250, 250, 1) !important;
-}
-
-.csl-right-inline a {
-  color: hsla(222, 96%, 35%, 0.7);
-}
-
-d-appendix h3 {
-  margin-top: 12px !important;
-  margin-left: auto;
-}
-
 /*-- ARTICLE METADATA --*/
 d-byline {
   --heading-size: 0.6rem;
@@ -92,7 +41,7 @@ d-byline {
 /*-- ARTICLE TABLE OF CONTENTS --*/
 .d-contents {
   --heading-size: 18px;
-  --contents-size: 13px;
+  /* --contents-size: 13px; */
 }
 
 /*-- ARTICLE APPENDIX --*/
@@ -122,4 +71,154 @@ d-appendix {
 }
 
 /*-- Additional custom styles --*/
-/* Add any additional CSS rules below                      */
+/* Add any additional CSS rules below */
+
+@media (min-width: 1000px) {
+  .toc {
+    padding-right: 3em;
+    padding-left: 2em;
+    padding-bottom: 2em;
+    border-right: 1px solid rgba(0, 0, 0, 0.1);
+    border-right-width: 1px;
+    border-right-style: solid;
+    border-right-color: rgba(0, 0, 0, 0.1);
+  }
+}
+
+@media (max-width: 999px) {
+  .d-contents {
+    justify-self: start;
+    align-self: start;
+    padding-bottom: 1em;
+    padding-left: 0.25em;
+    padding-right: 2em;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgba(0, 0, 0, 0.1);
+    margin-bottom: 36px !important;
+  }
+
+  .d-contents h3 {
+    padding-bottom: 8px !important;
+  }
+}
+
+.d-contents {
+  margin-bottom: 16px;
+}
+
+.d-contents nav h3 {
+  color: rgba(0, 0, 0, 0.6);
+  font-weight: 700;
+  margin-block-end: 18px;
+  margin-block-start: 0px;
+  margin-bottom: 18px;
+  margin-inline-end: 0px;
+  margin-inline-start: 0px;
+  margin-top: 0px;
+  border-bottom-width: 0px;
+  margin-bottom: 0px !important;
+}
+
+.d-contents nav a {
+  color: rgba(0, 0, 0, 0.8);
+  line-height: 1.5em;
+}
+
+.d-contents nav a:hover {
+  color: rgba(0, 0, 0, 0.8);
+}
+
+.d-contents nav > ul > li > a {
+  font-weight: 600;
+}
+
+.d-contents nav > ul > li > ul {
+  font-weight: inherit;
+}
+
+.d-contents nav > ul > li > ul > li {
+  font-size: 12px !important;
+}
+
+.d-contents nav ul {
+  margin-top: 0.5em;
+  margin-bottom: 0.25em;
+}
+
+d-article a {
+  color: hsla(205, 100%, 25%, 0.8);
+  /* color: #77f; */
+  transition: color 0.2s ease;
+  text-decoration: none;
+}
+
+d-article a:hover {
+  color: rgb(128, 0, 73);
+}
+
+d-article {
+  padding-top: 2rem;
+  padding-bottom: 60px;
+}
+
+d-article h2 {
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: hsla(300, 50, 50, 0.5);
+  font-size: 30px;
+}
+
+d-article h3 {
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: hsla(205, 100%, 25%, 0.5);
+  padding-bottom: 1rem;
+  font-weight: 500;
+}
+
+d-article .citation {
+  cursor: default;
+  white-space: nowrap;
+  color: hsla(205, 100%, 25%, 0.8);
+  font-size: 75%;
+  display: inline-block;
+  line-height: 1.1em;
+  text-align: center;
+  position: relative;
+  top: -2px;
+  margin: 0 2px;
+}
+
+d-article .citation a {
+  border-bottom: none;
+}
+
+.tippy-box {
+  padding: 8px;
+  font-size: 15px !important;
+  line-height: 1.6 !important;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  background-color: rgba(250, 250, 250, 0.95) !important;
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+}
+
+.tippy-box > .tippy-arrow:before {
+  border-top-color: rgba(250, 250, 250, 1) !important;
+}
+
+.csl-right-inline a {
+  color: hsla(222, 96%, 35%, 0.7);
+}
+
+d-appendix {
+  margin-top: 0px;
+  padding-top: 48px;
+}
+
+d-appendix h3 {
+  margin-top: 12px !important;
+  margin-left: auto;
+}
