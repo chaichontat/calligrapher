@@ -12,16 +12,38 @@ csl: theme/nature.csl
 output:
   distill::distill_article:
     toc: true
-    theme: theme/cs.css
-  tufte::tufte_handout: default
+    css: theme/cs.css
 ---
 
 Distill is a publication format for scientific and technical writing, native to the web.
 
-## Subsection
+## Introduction
+
+### Connecting People and Data
+
+As visual designers are well aware, and as journalism researchers have confirmed empirically 
+[36]
+, an audience which finds content to be aesthetically pleasing is more likely to have a positive attitude towards it. This in turn means people will spend more time engaging with content and ultimately lead to improved learning outcomes. While engagement itself may not be an end goal of most research communications, 
+
+### Making Systems Playful
+
+As visual designers are well aware, and as journalism researchers have confirmed empirically 
+[36]
+, an audience which finds content to be aesthetically pleasing is more likely to have a positive attitude towards it. This in turn means people will spend more time engaging with content and ultimately lead to improved learning outcomes. While engagement itself may not be an end goal of most research communications, 
+
+### O
+
+### P
 
 Somehow this works.
 
 Learn more about using [Distill](https://rstudio.github.io/distill) for R Markdown.
 
-Very interesting [@amirthalingam2021HigherSerological; @tang2021BNT162b2MRNA1273].
+Very interesting [@wang2021AirborneTransmission; @tang2021BNT162b2MRNA1273].
+
+
+## Sub 2
+
+As visual designers are well aware, and as journalism researchers have confirmed empirically 
+[36]
+, an audience which finds content to be aesthetically pleasing is more likely to have a positive attitude towards it. This in turn means people will spend more time engaging with content and ultimately lead to improved learning outcomes. While engagement itself may not be an end goal of most research communications, 
