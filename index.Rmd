@@ -6,7 +6,7 @@ author:
   - name: Chaichontat Sriworarat
     affiliation: Johns Hopkins University
 date: "`r Sys.Date()`"
-bibliography: references.bib
+bibliography: references.yaml
 
 csl: theme/nature.csl
 output:

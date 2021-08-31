@@ -1,0 +1,2621 @@
+---
+references:
+- id: alqahtani2021MorbidityMortality
+  abstract: >-
+    The emergence of new SARS-CoV-2 variants across the world has raised
+    concerns about the effectiveness of available COVID-19 vaccines that were
+    designed against the original Wuhan (wild type) variant. Critical questions
+    have arisen regarding: (a) the effectiveness of various vaccines in
+    preventing infection, symptomatic disease, hospitalization, intensive care
+    unit (ICU) admission and death and (b) the magnitude and clinical
+    consequences of post-vaccination infections in the context of emerging
+    variants, especially the Delta variant of SARS-Cov2. While “real world”
+    experiences with various vaccines have been reported, few have examined
+    comparative effectiveness of various vaccines in one population, as new
+    SARS-CoV-2 variants have emerged.  Here we present an analysis of COVID-19
+    related outcomes from Bahrain, a country with a total population of 1.501
+    million, where four vaccines were deployed (total vaccinated =1,003,960),
+    including Astra-Zeneca (AZ/Covishield), Pfizer/BioNtech, Sinopharm and
+    Sputnik V. By analyzing individual histories of vaccinated versus
+    unvaccinated cases, we provide a granular description of the effectiveness
+    of the four vaccines, disease burden in unvaccinated versus vaccinated
+    individuals over time, and the risk of four outcomes (infections,
+    hospitalizations, ICU admissions and deaths) due to breakthrough infections
+    among vaccinated individuals. We conclude that the four vaccines were
+    effective in reducing all four outcomes in vaccinated compared to
+    unvaccinated individuals, prior to, and during the period when the Delta
+    variant became dominant in the country (May 2021 to the present). However,
+    after censoring early vaccine recipients of Sinopharm vaccine, compared to
+    Pfizer/BionTech recipients, individuals vaccinated with Sinopharm had a
+    higher risk of post-vaccination infections, hospitalizations, ICU admissions
+    and deaths, especially in those &gt; 50 years old. Our overall findings
+    support the value of vaccination in preventing COVID-19 related events even
+    with the advent of the Delta variant. These data support the urgent need to
+    expand vaccination access around the world, and may serve to guide the
+    choice of vaccines in the context of the Delta variant.
+  accessed:
+    - year: 2021
+      month: 8
+      day: 27
+  author:
+    - family: AlQahtani
+      given: Manaf
+    - family: Bhattacharyya
+      given: Sujoy
+    - family: Alawadi
+      given: Abdulla
+    - family: Mahmeed
+      given: Hamad Al
+    - family: Sayed
+      given: Jaleela Al
+    - family: Justman
+      given: Jessica
+    - family: El-Sadr
+      given: Wafaa M.
+    - family: Hidary
+      given: Jack
+    - family: Mukherjee
+      given: Siddhartha
+  DOI: 10.21203/rs.3.rs-828021/v1
+  ISSN: 2693-5015
+  issued:
+    - year: 2021
+      month: 8
+      day: 27
+  source: Research Square
+  title: >-
+    Morbidity and mortality from COVID-19 post-vaccination breakthrough
+    infections in association with vaccines and the emergence of variants in
+    Bahrain
+  type: article
+  URL: https://www.researchsquare.com/article/rs-828021/v1
+
+- id: bergwerk2021Covid19Breakthrough
+  accessed:
+    - year: 2021
+      month: 8
+      day: 26
+  author:
+    - family: Bergwerk
+      given: Moriah
+    - family: Gonen
+      given: Tal
+    - family: Lustig
+      given: Yaniv
+    - family: Amit
+      given: Sharon
+    - family: Lipsitch
+      given: Marc
+    - family: Cohen
+      given: Carmit
+    - family: Mandelboim
+      given: Michal
+    - family: Gal Levin
+      given: Einav
+    - family: Rubin
+      given: Carmit
+    - family: Indenbaum
+      given: Victoria
+    - family: Tal
+      given: Ilana
+    - family: Zavitan
+      given: Malka
+    - family: Zuckerman
+      given: Neta
+    - family: Bar-Chaim
+      given: Adina
+    - family: Kreiss
+      given: Yitshak
+    - family: Regev-Yochay
+      given: Gili
+  container-title: New England Journal of Medicine
+  container-title-short: N. Engl. J. Med.
+  DOI: 10.1056/NEJMoa2109072
+  ISSN: 0028-4793
+  issue: '0'
+  issued:
+    - year: 2021
+      month: 7
+      day: 28
+  note: '_eprint: https://doi.org/10.1056/NEJMoa2109072'
+  page: 'null'
+  publisher: Massachusetts Medical Society
+  source: Taylor and Francis+NEJM
+  title: Covid-19 Breakthrough Infections in Vaccinated Health Care Workers
+  type: article-journal
+  URL: https://doi.org/10.1056/NEJMoa2109072
+  volume: '0'
+
+- id: chemaitelly2021WaningBNT162b2
+  abstract: >-
+    BACKGROUND: Waning of vaccine protection against SARS-CoV-2 infection or
+    COVID-19 disease is a concern. This study investigated persistence of
+    BNT162b2 (Pfizer-BioNTech) vaccine effectiveness against infection and
+    disease in Qatar, where the Beta and Delta variants have dominated incidence
+    and PCR testing is done at a mass scale. METHODS: A matched test-negative,
+    case-control study design was used to estimate vaccine effectiveness against
+    SARS-CoV-2 infection and against any severe, critical, or fatal COVID-19
+    disease, between January 1, 2021 to August 15, 2021. RESULTS: Estimated
+    BNT162b2 effectiveness against any infection, asymptomatic or symptomatic,
+    was negligible for the first two weeks after the first dose, increased to
+    36.5% (95% CI: 33.1-39.8) in the third week after the first dose, and
+    reached its peak at 72.1% (95% CI: 70.9-73.2) in the first five weeks after
+    the second dose. Effectiveness declined gradually thereafter, with the
+    decline accelerating ≥15 weeks after the second dose, reaching diminished
+    levels of protection by the 20th week. Effectiveness against symptomatic
+    infection was higher than against asymptomatic infection, but still waned in
+    the same fashion. Effectiveness against any severe, critical, or fatal
+    disease increased rapidly to 67.7% (95% CI: 59.1-74.7) by the third week
+    after the first dose, and reached 95.4% (95% CI: 93.4-96.9) in the first
+    five weeks after the second dose, where it persisted at about this level for
+    six months. CONCLUSIONS: BNT162b2-induced protection against infection
+    appears to wane rapidly after its peak right after the second dose, but it
+    persists at a robust level against hospitalization and death for at least
+    six months following the second dose.
+  accessed:
+    - year: 2021
+      month: 8
+      day: 27
+  author:
+    - family: Chemaitelly
+      given: Hiam
+    - family: Tang
+      given: Patrick
+    - family: Hasan
+      given: Mohammad Rubayet
+    - family: AlMukdad
+      given: Sawsan
+    - family: Yassine
+      given: Hadi M.
+    - family: Benslimane
+      given: Fatiha
+    - family: Khatib
+      given: Hebah A. Al
+    - family: Coyle
+      given: Peter
+    - family: Ayoub
+      given: Houssein H.
+    - family: Kanaani
+      given: Zaina Al
+    - family: Kuwari
+      given: Einas Al
+    - family: Jeremijenko
+      given: Andrew
+    - family: Kaleeckal
+      given: Anvar Hassan
+    - family: Latif
+      given: Ali Nizar
+    - family: Shaik
+      given: Riyazuddin Mohammad
+    - family: Rahim
+      given: Hanan F. Abdul
+    - family: Nasrallah
+      given: Gheyath
+    - family: Kuwari
+      given: Mohamed Ghaith Al
+    - family: Romaihi
+      given: Hamad Eid Al
+    - family: Butt
+      given: Adeel A.
+    - family: Al-Thani
+      given: Mohamed H.
+    - family: Khal
+      given: Abdullatif Al
+    - family: Bertollini
+      given: Roberto
+    - family: Abu-Raddad
+      given: Laith J.
+  DOI: 10.1101/2021.08.25.21262584
+  issued:
+    - year: 2021
+      month: 8
+      day: 27
+  language: en
+  page: 2021.08.25.21262584
+  publisher: Cold Spring Harbor Laboratory Press
+  source: medRxiv
+  title: Waning of BNT162b2 vaccine protection against SARS-CoV-2 infection in Qatar
+  type: article
+  URL: https://www.medrxiv.org/content/10.1101/2021.08.25.21262584v1
+
+- id: gazit2021ComparingSARSCoV2
+  abstract: >-
+    Background: Reports of waning vaccine-induced immunity against COVID-19 have
+    begun to surface. With that, the comparable long-term protection conferred
+    by previous infection with SARS-CoV-2 remains unclear. Methods: We conducted
+    a retrospective observational study comparing three groups:
+    (1)SARS-CoV-2-naive individuals who received a two-dose regimen of the
+    BioNTech/Pfizer mRNA BNT162b2 vaccine, (2)previously infected individuals
+    who have not been vaccinated, and (3)previously infected and single dose
+    vaccinated individuals. Three multivariate logistic regression models were
+    applied. In all models we evaluated four outcomes: SARS-CoV-2 infection,
+    symptomatic disease, COVID-19-related hospitalization and death. The
+    follow-up period of June 1 to August 14, 2021, when the Delta variant was
+    dominant in Israel. Results: SARS-CoV-2-naive vaccinees had a 13.06-fold
+    (95% CI, 8.08 to 21.11) increased risk for breakthrough infection with the
+    Delta variant compared to those previously infected, when the first event
+    (infection or vaccination) occurred during January and February of 2021. The
+    increased risk was significant (P<0.001) for symptomatic disease as well.
+    When allowing the infection to occur at any time before vaccination (from
+    March 2020 to February 2021), evidence of waning natural immunity was
+    demonstrated, though SARS-CoV-2 naive vaccinees had a 5.96-fold (95% CI,
+    4.85 to 7.33) increased risk for breakthrough infection and a 7.13-fold (95%
+    CI, 5.51 to 9.21) increased risk for symptomatic disease. SARS-CoV-2-naive
+    vaccinees were also at a greater risk for COVID-19-related-hospitalizations
+    compared to those that were previously infected. Conclusions: This study
+    demonstrated that natural immunity confers longer lasting and stronger
+    protection against infection, symptomatic disease and hospitalization caused
+    by the Delta variant of SARS-CoV-2, compared to the BNT162b2 two-dose
+    vaccine-induced immunity. Individuals who were both previously infected with
+    SARS-CoV-2 and given a single dose of the vaccine gained additional
+    protection against the Delta variant.
+  accessed:
+    - year: 2021
+      month: 8
+      day: 26
+  author:
+    - family: Gazit
+      given: Sivan
+    - family: Shlezinger
+      given: Roei
+    - family: Perez
+      given: Galit
+    - family: Lotan
+      given: Roni
+    - family: Peretz
+      given: Asaf
+    - family: Ben-Tov
+      given: Amir
+    - family: Cohen
+      given: Dani
+    - family: Muhsen
+      given: Khitam
+    - family: Chodick
+      given: Gabriel
+    - family: Patalon
+      given: Tal
+  DOI: 10.1101/2021.08.24.21262415
+  issued:
+    - year: 2021
+      month: 8
+      day: 25
+  language: en
+  page: 2021.08.24.21262415
+  publisher: Cold Spring Harbor Laboratory Press
+  source: medRxiv
+  title: >-
+    Comparing SARS-CoV-2 natural immunity to vaccine-induced immunity:
+    reinfections versus breakthrough infections
+  title-short: Comparing SARS-CoV-2 natural immunity to vaccine-induced immunity
+  type: article
+  URL: https://www.medrxiv.org/content/10.1101/2021.08.24.21262415v1
+
+- id: hall2021DelayedInterval
+  abstract: >-
+    Shortages of COVID-19 vaccines have results in delayed dosing intervals as a
+    strategy to immunize a greater proportion of the population.&amp;nbsp;The
+    effect of this strategy on vaccine immunogenicity is not well
+    studied.&amp;nbsp;Humoral (anti-RBD levels and neutralization) and cellular
+    immune responses were compared in health care workers receiving two doses of
+    BNT162b2 (Pfizer-BioNTech) vaccines at standard (3-6 week) and delayed (8-12
+    week) intervals. In the delayed group, anti-RBD antibody titres were
+    significantly enhanced compared to the standard interval
+    group.&amp;nbsp;&amp;nbsp;Neutralizing antibody responses were excellent and
+    comparable in both groups.&amp;nbsp;A slight decrease in Spike-specific
+    polyfunctional CD4+ T-cells expressing interferon-γ and IL-2 as well as
+    monofunctional CD4+ T-cells was seen in the delayed group.&amp;nbsp;Both
+    polyfunctional and monofunctional CD8+ T-cell responses were
+    comparable.&amp;nbsp;Our data suggest that the strategy of delayed second
+    dose mRNA vaccination is not overtly detrimental, and specifically may lead
+    to an enhanced humoral immune response.
+  accessed:
+    - year: 2021
+      month: 8
+      day: 28
+  author:
+    - family: Hall
+      given: Victoria
+    - family: Ferreira
+      given: Victor
+    - family: Ierullo
+      given: Matthew
+    - family: Ku
+      given: Terrance
+    - family: Majchrzak-Kita
+      given: Beata
+    - family: Kulasingam
+      given: Vathany
+    - family: Humar
+      given: Atul
+    - family: Kumar
+      given: Deepali
+  DOI: 10.21203/rs.3.rs-793234/v1
+  ISSN: 2693-5015
+  issued:
+    - year: 2021
+      month: 8
+      day: 28
+  source: Research Square
+  title: Delayed interval BNT162b2 mRNA COVID-19 vaccination provides robust immunity
+  type: article
+  URL: https://www.researchsquare.com/article/rs-793234/v1
+
+- id: lopezbernal2021EffectivenessCovid19
+  accessed:
+    - year: 2021
+      month: 8
+      day: 26
+  author:
+    - family: Lopez Bernal
+      given: Jamie
+    - family: Andrews
+      given: Nick
+    - family: Gower
+      given: Charlotte
+    - family: Gallagher
+      given: Eileen
+    - family: Simmons
+      given: Ruth
+    - family: Thelwall
+      given: Simon
+    - family: Stowe
+      given: Julia
+    - family: Tessier
+      given: Elise
+    - family: Groves
+      given: Natalie
+    - family: Dabrera
+      given: Gavin
+    - family: Myers
+      given: Richard
+    - family: Campbell
+      given: Colin N.J.
+    - family: Amirthalingam
+      given: Gayatri
+    - family: Edmunds
+      given: Matt
+    - family: Zambon
+      given: Maria
+    - family: Brown
+      given: Kevin E.
+    - family: Hopkins
+      given: Susan
+    - family: Chand
+      given: Meera
+    - family: Ramsay
+      given: Mary
+  container-title: New England Journal of Medicine
+  container-title-short: N. Engl. J. Med.
+  DOI: 10.1056/NEJMoa2108891
+  ISSN: 0028-4793
+  issue: '7'
+  issued:
+    - year: 2021
+      month: 8
+      day: 12
+  note: '_eprint: https://doi.org/10.1056/NEJMoa2108891'
+  page: 585-594
+  publisher: Massachusetts Medical Society
+  source: Taylor and Francis+NEJM
+  title: Effectiveness of Covid-19 Vaccines against the B.1.617.2 (Delta) Variant
+  type: article-journal
+  URL: https://doi.org/10.1056/NEJMoa2108891
+  volume: '385'
+
+- id: loyal2021CrossreactiveCD4
+  abstract: >-
+    The functional relevance of pre-existing cross-immunity to SARS-CoV-2 is a
+    subject of intense debate. Here, we show that human endemic coronavirus
+    (HCoV)-reactive and SARS-CoV-2-cross-reactive CD4+...
+  accessed:
+    - year: 2021
+      month: 8
+      day: 31
+  archive_location: world
+  author:
+    - family: Loyal
+      given: Lucie
+    - family: Braun
+      given: Julian
+    - family: Henze
+      given: Larissa
+    - family: Kruse
+      given: Beate
+    - family: Dingeldey
+      given: Manuela
+    - family: Reimer
+      given: Ulf
+    - family: Kern
+      given: Florian
+    - family: Schwarz
+      given: Tatjana
+    - family: Mangold
+      given: Maike
+    - family: Unger
+      given: Clara
+    - family: Dörfler
+      given: Friederike
+    - family: Kadler
+      given: Shirin
+    - family: Rosowski
+      given: Jennifer
+    - family: Gürcan
+      given: Kübrah
+    - family: Uyar-Aydin
+      given: Zehra
+    - family: Frentsch
+      given: Marco
+    - family: Kurth
+      given: Florian
+    - family: Schnatbaum
+      given: Karsten
+    - family: Eckey
+      given: Maren
+    - family: Hippenstiel
+      given: Stefan
+    - family: Hocke
+      given: Andreas
+    - family: Müller
+      given: Marcel A.
+    - family: Sawitzki
+      given: Birgit
+    - family: Miltenyi
+      given: Stefan
+    - family: Paul
+      given: Friedemann
+    - family: Mall
+      given: Marcus A.
+    - family: Wenschuh
+      given: Holger
+    - family: Voigt
+      given: Sebastian
+    - family: Drosten
+      given: Christian
+    - family: Lauster
+      given: Roland
+    - family: Lachman
+      given: Nils
+    - family: Sander
+      given: Leif-Erik
+    - family: Corman
+      given: Victor M.
+    - family: Röhmel
+      given: Jobst
+    - family: Meyer-Arndt
+      given: Lil
+    - family: Thiel
+      given: Andreas
+    - family: Giesecke-Thiel
+      given: Claudia
+  container-title: Science
+  issued:
+    - year: 2021
+      month: 8
+      day: 31
+  language: EN
+  publisher: American Association for the Advancement of Science
+  source: www.science.org
+  title: >-
+    Cross-reactive CD4+ T cells enhance SARS-CoV-2 immune responses upon
+    infection and vaccination
+  type: article-journal
+  URL: https://www.science.org/doi/abs/10.1126/science.abh1823
+
+- id: puranik2021ComparisonTwo
+  abstract: >-
+    Although clinical trials and real-world studies have affirmed the
+    effectiveness and safety of the FDA-authorized COVID-19 vaccines, reports of
+    breakthrough infections and persistent emergence of new variants highlight
+    the need to vigilantly monitor the effectiveness of these vaccines. Here we
+    compare the effectiveness of two full-length Spike protein-encoding mRNA
+    vaccines from Moderna (mRNA-1273) and Pfizer/BioNTech (BNT162b2) in the Mayo
+    Clinic Health System over time from January to July 2021, during which
+    either the Alpha or Delta variant was highly prevalent. We defined cohorts
+    of vaccinated and unvaccinated individuals from Minnesota (n = 25,589 each)
+    matched on age, sex, race, history of prior SARS-CoV-2 PCR testing, and date
+    of full vaccination. Both vaccines were highly effective during this study
+    period against SARS-CoV-2 infection (mRNA-1273: 86%, 95%CI: 81-90.6%;
+    BNT162b2: 76%, 95%CI: 69-81%) and COVID-19 associated hospitalization
+    (mRNA-1273: 91.6%, 95% CI: 81-97%; BNT162b2: 85%, 95% CI: 73-93%). In July,
+    vaccine effectiveness against hospitalization has remained high (mRNA-1273:
+    81%, 95% CI: 33-96.3%; BNT162b2: 75%, 95% CI: 24-93.9%), but effectiveness
+    against infection was lower for both vaccines (mRNA-1273: 76%, 95% CI:
+    58-87%; BNT162b2: 42%, 95% CI: 13-62%), with a more pronounced reduction for
+    BNT162b2. Notably, the Delta variant prevalence in Minnesota increased from
+    0.7% in May to over 70% in July whereas the Alpha variant prevalence
+    decreased from 85% to 13% over the same time period. Comparing rates of
+    infection between matched individuals fully vaccinated with mRNA-1273 versus
+    BNT162b2 across Mayo Clinic Health System sites in multiple states
+    (Minnesota, Wisconsin, Arizona, Florida, and Iowa), mRNA-1273 conferred a
+    two-fold risk reduction against breakthrough infection compared to BNT162b2
+    (IRR = 0.50, 95% CI: 0.39-0.64). In Florida, which is currently experiencing
+    its largest COVID-19 surge to date, the risk of infection in July after full
+    vaccination with mRNA-1273 was about 60% lower than after full vaccination
+    with BNT162b2 (IRR: 0.39, 95% CI: 0.24-0.62). Our observational study
+    highlights that while both mRNA COVID-19 vaccines strongly protect against
+    infection and severe disease, further evaluation of mechanisms underlying
+    differences in their effectiveness such as dosing regimens and vaccine
+    composition are warranted.
+  accessed:
+    - year: 2021
+      month: 8
+      day: 26
+  author:
+    - family: Puranik
+      given: Arjun
+    - family: Lenehan
+      given: Patrick J.
+    - family: Silvert
+      given: Eli
+    - family: Niesen
+      given: Michiel J. M.
+    - family: Corchado-Garcia
+      given: Juan
+    - family: O’Horo
+      given: John C.
+    - family: Virk
+      given: Abinash
+    - family: Swift
+      given: Melanie D.
+    - family: Halamka
+      given: John
+    - family: Badley
+      given: Andrew D.
+    - family: Venkatakrishnan
+      given: A. J.
+    - family: Soundararajan
+      given: Venky
+  DOI: 10.1101/2021.08.06.21261707
+  issued:
+    - year: 2021
+      month: 8
+      day: 21
+  language: en
+  page: 2021.08.06.21261707
+  publisher: Cold Spring Harbor Laboratory Press
+  source: medRxiv
+  title: >-
+    Comparison of two highly-effective mRNA vaccines for COVID-19 during periods
+    of Alpha and Delta variant prevalence
+  type: article
+  URL: https://www.medrxiv.org/content/10.1101/2021.08.06.21261707v3
+
+- id: sadoff2021DurabilityAntibody
+  abstract: >-
+    Background: We evaluated the durability of SARS-CoV-2 antibody levels
+    elicited by the single dose Janssen COVID-19 vaccine, Ad26.COV2.S, and the
+    impact on antibody responses of boosting with Ad26.COV2.S after 6 months in
+    clinical trial participants. Methods: Spike-binding antibody and SARS-CoV-2
+    neutralizing antibody levels elicited by a single-dose Ad26.COV2.S (5x1010
+    viral particles [vp]) primary regimen and booster doses (5x1010 vp and
+    1.25x1010 vp) were assessed by ELISA and wild-type VNA in sera from
+    participants in a Phase 1/2a clinical trial (Cohort 1a, 18–55 years old,
+    N=25; Cohort 2a, 18–55 years old boosted at 6 months, N=17; Cohort 3, ≥65
+    years old, N=22) and a Phase 2 clinical trial (18–55 and ≥65-year old
+    participants boosted at 6 months, total N=73). Neutralizing antibody levels
+    were determined approximately 8 months after the primary vaccination in
+    participants aged 18–55 years and approximately 9 months in participants
+    aged ≥65 years. Binding antibody levels were evaluated 6 months after
+    primary vaccination and 7- and 28-days after booster doses in both age
+    groups. Results: A single dose of Ad26.COV2.S elicited neutralizing
+    antibodies that remained largely stable for approximately 8–9 months and
+    binding antibodies that remained stable for at least 6 months irrespective
+    of age group. A 5x1010 vp booster dose at 6 months post prime vaccination in
+    18–55-year-old adults elicited a steep and robust 9-fold increase at Day 7
+    post boost compared to Day 29 levels following the initial immunization. A
+    lower booster dose of 1.25x1010 vp at 6 months in adults 18–55 and ≥65 years
+    of age also elicited a rapid and high increase of 6–7.7 fold at Day 28 post
+    boost compared to Day 29 levels following the initial immunization, with
+    similar magnitude of post-boost responses in both age groups. Conclusions: A
+    single dose of Ad26.COV2.S, which demonstrated protection in a Phase 3
+    efficacy trial, elicited durable neutralizing and binding antibodies for at
+    least 8 and 6 months, respectively, in adults >18 years of age at levels
+    similar to Day 29 responses. A 5x1010 vp or 1.25x1010 vp booster dose at 6
+    months elicited rapid and robust increases in spike binding antibody levels.
+    The anamnestic responses after booster immunization imply robust immune
+    memory elicited by single-dose Ad26.COV2.S.
+  accessed:
+    - year: 2021
+      month: 8
+      day: 26
+  author:
+    - family: Sadoff
+      given: Jerald
+    - family: Gars
+      given: Mathieu Le
+    - family: Cardenas
+      given: Vicky
+    - family: Shukarev
+      given: Georgi
+    - family: Vaissiere
+      given: Nathalie
+    - family: Heerwegh
+      given: Dirk
+    - family: Truyers
+      given: Carla
+    - family: Groot
+      given: Anne Marit
+      dropping-particle: de
+    - family: Scheper
+      given: Gert
+    - family: Hendriks
+      given: Jenny
+    - family: Ruiz-Guinazu
+      given: Javier
+    - family: Struyf
+      given: Frank
+    - family: Hoof
+      given: Johan Van
+    - family: Douoguih
+      given: Macaya
+    - family: Schuitemaker
+      given: Hanneke
+  DOI: 10.1101/2021.08.25.21262569
+  issued:
+    - year: 2021
+      month: 8
+      day: 26
+  language: en
+  page: 2021.08.25.21262569
+  publisher: Cold Spring Harbor Laboratory Press
+  source: medRxiv
+  title: >-
+    Durability of antibody responses elicited by a single dose of Ad26.COV2.S
+    and substantial increase following late boosting
+  type: article
+  URL: https://www.medrxiv.org/content/10.1101/2021.08.25.21262569v1
+
+- id: steensels2021ComparisonSARSCoV2
+  abstract: >-
+    The SARS-CoV-2 messenger RNA (mRNA) vaccines BNT162b2 (Pfizer-BioNTech) and
+    mRNA-1273 (Moderna) have each shown more than 90% efficacy in preventing
+    COVID-19 illness but, to our knowledge, humoral immune responses have not
+    been compared directly.
+  accessed:
+    - year: 2021
+      month: 8
+      day: 31
+  author:
+    - family: Steensels
+      given: Deborah
+    - family: Pierlet
+      given: Noella
+    - family: Penders
+      given: Joris
+    - family: Mesotten
+      given: Dieter
+    - family: Heylen
+      given: Line
+  container-title: JAMA
+  container-title-short: JAMA
+  DOI: 10.1001/jama.2021.15125
+  ISSN: 0098-7484
+  issued:
+    - year: 2021
+      month: 8
+      day: 30
+  source: Silverchair
+  title: >-
+    Comparison of SARS-CoV-2 Antibody Response Following Vaccination With
+    BNT162b2 and mRNA-1273
+  type: article-journal
+  URL: https://doi.org/10.1001/jama.2021.15125
+
+- id: tang2021BNT162b2MRNA1273
+  abstract: >-
+    The SARS-CoV-2 Delta (B.1.617.2) variant of concern is expanding globally.
+    Here, we assess real-world effectiveness of the BNT162b2 (Pfizer-BioNTech)
+    and mRNA-1273 (Moderna) vaccines against this variant in the population of
+    Qatar, using a matched test-negative, case- control study design. BNT162b2
+    effectiveness against any Delta infection, symptomatic or asymptomatic, was
+    64.2% (95% CI: 38.1-80.1%) ≥14 days after the first dose and before the
+    second dose, but was only 53.5% (95% CI: 43.9-61.4%) ≥14 days after the
+    second dose, in a population in which a large proportion of fully vaccinated
+    persons received their second dose several months earlier. Corresponding
+    effectiveness measures for mRNA-1273 were 79.0% (95% CI: 58.9-90.1%) and
+    84.8% (95% CI: 75.9-90.8%), respectively. Effectiveness against any severe,
+    critical, or fatal COVID-19 disease due to Delta was 89.7% (95% CI:
+    61.0-98.1%) for BNT162b2 and 100.0% (95% CI: 41.2-100.0%) for mRNA-1273, ≥14
+    days after the second dose. Both BNT162b2 and mRNA-1273 are highly effective
+    in preventing Delta hospitalization and death, but less so in preventing
+    infection, particularly for BNT162b2.
+  accessed:
+    - year: 2021
+      month: 8
+      day: 26
+  author:
+    - family: Tang
+      given: Patrick
+    - family: Hasan
+      given: Mohammad R.
+    - family: Chemaitelly
+      given: Hiam
+    - family: Yassine
+      given: Hadi M.
+    - family: Benslimane
+      given: Fatiha M.
+    - family: Khatib
+      given: Hebah A. Al
+    - family: AlMukdad
+      given: Sawsan
+    - family: Coyle
+      given: Peter
+    - family: Ayoub
+      given: Houssein H.
+    - family: Kanaani
+      given: Zaina Al
+    - family: Kuwari
+      given: Einas Al
+    - family: Jeremijenko
+      given: Andrew
+    - family: Kaleeckal
+      given: Anvar Hassan
+    - family: Latif
+      given: Ali Nizar
+    - family: Shaik
+      given: Riyazuddin Mohammad
+    - family: Rahim
+      given: Hanan F. Abdul
+    - family: Nasrallah
+      given: Gheyath K.
+    - family: Kuwari
+      given: Mohamed Ghaith Al
+    - family: Romaihi
+      given: Hamad Eid Al
+    - family: Butt
+      given: Adeel A.
+    - family: Al-Thani
+      given: Mohamed H.
+    - family: Khal
+      given: Abdullatif Al
+    - family: Bertollini
+      given: Roberto
+    - family: Abu-Raddad
+      given: Laith J.
+  DOI: 10.1101/2021.08.11.21261885
+  issued:
+    - year: 2021
+      month: 8
+      day: 11
+  language: en
+  page: 2021.08.11.21261885
+  publisher: Cold Spring Harbor Laboratory Press
+  source: medRxiv
+  title: >-
+    BNT162b2 and mRNA-1273 COVID-19 vaccine effectiveness against the Delta
+    (B.1.617.2) variant in Qatar
+  type: article
+  URL: https://www.medrxiv.org/content/10.1101/2021.08.11.21261885v1
+
+- id: townshend2021GeometricDeep
+  abstract: >-
+    Machine learning solves RNA puzzles
+
+    RNA molecules fold into complex three-dimensional shapes that are difficult
+    to determine experimentally or predict computationally. Understanding these
+    structures may aid in the discovery of drugs for currently untreatable
+    diseases. Townshend et al. introduced a machine-learning method that
+    significantly improves prediction of RNA structures (see the Perspective by
+    Weeks). Most other recent advances in deep learning have required a
+    tremendous amount of data for training. The fact that this method succeeds
+    given very little training data suggests that related methods could address
+    unsolved problems in many fields where data are scarce.
+
+    Science, abe5650, this issue p. 1047; see also abk1971, p. 964
+
+    RNA molecules adopt three-dimensional structures that are critical to their
+    function and of interest in drug discovery. Few RNA structures are known,
+    however, and predicting them computationally has proven challenging. We
+    introduce a machine learning approach that enables identification of
+    accurate structural models without assumptions about their defining
+    characteristics, despite being trained with only 18 known RNA structures.
+    The resulting scoring function, the Atomic Rotationally Equivariant Scorer
+    (ARES), substantially outperforms previous methods and consistently produces
+    the best results in community-wide blind RNA structure prediction
+    challenges. By learning effectively even from a small amount of data, our
+    approach overcomes a major limitation of standard deep neural networks.
+    Because it uses only atomic coordinates as inputs and incorporates no
+    RNA-specific information, this approach is applicable to diverse problems in
+    structural biology, chemistry, materials science, and beyond.
+
+    A machine learning method significantly improves scoring of RNA structural
+    models, despite being trained on very few structures.
+
+    A machine learning method significantly improves scoring of RNA structural
+    models, despite being trained on very few structures.
+  accessed:
+    - year: 2021
+      month: 8
+      day: 29
+  author:
+    - family: Townshend
+      given: Raphael J. L.
+    - family: Eismann
+      given: Stephan
+    - family: Watkins
+      given: Andrew M.
+    - family: Rangan
+      given: Ramya
+    - family: Karelina
+      given: Maria
+    - family: Das
+      given: Rhiju
+    - family: Dror
+      given: Ron O.
+  container-title: Science
+  DOI: 10.1126/science.abe5650
+  ISSN: 0036-8075, 1095-9203
+  issue: '6558'
+  issued:
+    - year: 2021
+      month: 8
+      day: 27
+  language: en
+  page: 1047-1051
+  PMID: '34446608'
+  publisher: American Association for the Advancement of Science
+  section: Report
+  source: science.sciencemag.org
+  title: Geometric deep learning of RNA structure
+  type: article-journal
+  URL: http://science.sciencemag.org/content/373/6558/1047
+  volume: '373'
+
+- id: townshend2021GeometricDeepa
+  abstract: >-
+    Machine learning solves RNA puzzles
+
+    RNA molecules fold into complex three-dimensional shapes that are difficult
+    to determine experimentally or predict computationally. Understanding these
+    structures may aid in the discovery of drugs for currently untreatable
+    diseases. Townshend et al. introduced a machine-learning method that
+    significantly improves prediction of RNA structures (see the Perspective by
+    Weeks). Most other recent advances in deep learning have required a
+    tremendous amount of data for training. The fact that this method succeeds
+    given very little training data suggests that related methods could address
+    unsolved problems in many fields where data are scarce.
+
+    Science, abe5650, this issue p. 1047; see also abk1971, p. 964
+
+    RNA molecules adopt three-dimensional structures that are critical to their
+    function and of interest in drug discovery. Few RNA structures are known,
+    however, and predicting them computationally has proven challenging. We
+    introduce a machine learning approach that enables identification of
+    accurate structural models without assumptions about their defining
+    characteristics, despite being trained with only 18 known RNA structures.
+    The resulting scoring function, the Atomic Rotationally Equivariant Scorer
+    (ARES), substantially outperforms previous methods and consistently produces
+    the best results in community-wide blind RNA structure prediction
+    challenges. By learning effectively even from a small amount of data, our
+    approach overcomes a major limitation of standard deep neural networks.
+    Because it uses only atomic coordinates as inputs and incorporates no
+    RNA-specific information, this approach is applicable to diverse problems in
+    structural biology, chemistry, materials science, and beyond.
+
+    A machine learning method significantly improves scoring of RNA structural
+    models, despite being trained on very few structures.
+
+    A machine learning method significantly improves scoring of RNA structural
+    models, despite being trained on very few structures.
+  accessed:
+    - year: 2021
+      month: 8
+      day: 29
+  author:
+    - family: Townshend
+      given: Raphael J. L.
+    - family: Eismann
+      given: Stephan
+    - family: Watkins
+      given: Andrew M.
+    - family: Rangan
+      given: Ramya
+    - family: Karelina
+      given: Maria
+    - family: Das
+      given: Rhiju
+    - family: Dror
+      given: Ron O.
+  container-title: Science
+  DOI: 10.1126/science.abe5650
+  ISSN: 0036-8075, 1095-9203
+  issue: '6558'
+  issued:
+    - year: 2021
+      month: 8
+      day: 27
+  language: en
+  page: 1047-1051
+  PMID: '34446608'
+  publisher: American Association for the Advancement of Science
+  section: Report
+  source: science-sciencemag-org.proxy1.library.jhu.edu
+  title: Geometric deep learning of RNA structure
+  type: article-journal
+  URL: http://science.sciencemag.org.proxy1.library.jhu.edu/content/373/6558/1047
+  volume: '373'
+
+- id: twohig2021HospitalAdmission
+  abstract: >-
+    <h2>Summary</h2><h3>Background</h3><p>The SARS-CoV-2 delta (B.1.617.2)
+    variant was first detected in England in March, 2021. It has since rapidly
+    become the predominant lineage, owing to high transmissibility. It is
+    suspected that the delta variant is associated with more severe disease than
+    the previously dominant alpha (B.1.1.7) variant. We aimed to characterise
+    the severity of the delta variant compared with the alpha variant by
+    determining the relative risk of hospital attendance
+    outcomes.</p><h3>Methods</h3><p>This cohort study was done among all
+    patients with COVID-19 in England between March 29 and May 23, 2021, who
+    were identified as being infected with either the alpha or delta SARS-CoV-2
+    variant through whole-genome sequencing. Individual-level data on these
+    patients were linked to routine health-care datasets on vaccination,
+    emergency care attendance, hospital admission, and mortality (data from
+    Public Health England's Second Generation Surveillance System and
+    COVID-19-associated deaths dataset; the National Immunisation Management
+    System; and NHS Digital Secondary Uses Services and Emergency Care Data
+    Set). The risk for hospital admission and emergency care attendance were
+    compared between patients with sequencing-confirmed delta and alpha variants
+    for the whole cohort and by vaccination status subgroups. Stratified Cox
+    regression was used to adjust for age, sex, ethnicity, deprivation, recent
+    international travel, area of residence, calendar week, and vaccination
+    status.</p><h3>Findings</h3><p>Individual-level data on 43 338
+    COVID-19-positive patients (8682 with the delta variant, 34 656 with the
+    alpha variant; median age 31 years \[IQR 17–43]) were included in our
+    analysis. 196 (2·3%) patients with the delta variant versus 764 (2·2%)
+    patients with the alpha variant were admitted to hospital within 14 days
+    after the specimen was taken (adjusted hazard ratio \[HR] 2·26 \[95% CI
+    1·32–3·89]). 498 (5·7%) patients with the delta variant versus 1448 (4·2%)
+    patients with the alpha variant were admitted to hospital or attended
+    emergency care within 14 days (adjusted HR 1·45 \[1·08–1·95]). Most patients
+    were unvaccinated (32 078 \[74·0%] across both groups). The HRs for
+    vaccinated patients with the delta variant versus the alpha variant
+    (adjusted HR for hospital admission 1·94 \[95% CI 0·47–8·05] and for
+    hospital admission or emergency care attendance 1·58 \[0·69–3·61]) were
+    similar to the HRs for unvaccinated patients (2·32 \[1·29–4·16] and 1·43
+    \[1·04–1·97]; p=0·82 for both) but the precision for the vaccinated subgroup
+    was low.</p><h3>Interpretation</h3><p>This large national study found a
+    higher hospital admission or emergency care attendance risk for patients
+    with COVID-19 infected with the delta variant compared with the alpha
+    variant. Results suggest that outbreaks of the delta variant in unvaccinated
+    populations might lead to a greater burden on health-care services than the
+    alpha variant.</p><h3>Funding</h3><p>Medical Research Council; UK Research
+    and Innovation; Department of Health and Social Care; and National Institute
+    for Health Research.</p>
+  accessed:
+    - year: 2021
+      month: 8
+      day: 27
+  author:
+    - family: Twohig
+      given: Katherine A.
+    - family: Nyberg
+      given: Tommy
+    - family: Zaidi
+      given: Asad
+    - family: Thelwall
+      given: Simon
+    - family: Sinnathamby
+      given: Mary A.
+    - family: Aliabadi
+      given: Shirin
+    - family: Seaman
+      given: Shaun R.
+    - family: Harris
+      given: Ross J.
+    - family: Hope
+      given: Russell
+    - family: Lopez-Bernal
+      given: Jamie
+    - family: Gallagher
+      given: Eileen
+    - family: Charlett
+      given: Andre
+    - family: Angelis
+      given: Daniela De
+    - family: Presanis
+      given: Anne M.
+    - family: Dabrera
+      given: Gavin
+    - family: Koshy
+      given: Cherian
+    - family: Ash
+      given: Amy
+    - family: Wise
+      given: Emma
+    - family: Moore
+      given: Nathan
+    - family: Mori
+      given: Matilde
+    - family: Cortes
+      given: Nick
+    - family: Lynch
+      given: Jessica
+    - family: Kidd
+      given: Stephen
+    - family: Fairley
+      given: Derek
+    - family: Curran
+      given: Tanya
+    - family: McKenna
+      given: James
+    - family: Adams
+      given: Helen
+    - family: Fraser
+      given: Christophe
+    - family: Golubchik
+      given: Tanya
+    - family: Bonsall
+      given: David
+    - family: Hassan-Ibrahim
+      given: Mohammed
+    - family: Malone
+      given: Cassandra
+    - family: Cogger
+      given: Benjamin
+    - family: Wantoch
+      given: Michelle
+    - family: Reynolds
+      given: Nicola
+    - family: Warne
+      given: Ben
+    - family: Maksimovic
+      given: Joshua
+    - family: Spellman
+      given: Karla
+    - family: McCluggage
+      given: Kathryn
+    - family: John
+      given: Michaela
+    - family: Beer
+      given: Robert
+    - family: Afifi
+      given: Safiah
+    - family: Morgan
+      given: Sian
+    - family: Marchbank
+      given: Angela
+    - family: Price
+      given: Anna
+    - family: Kitchen
+      given: Christine
+    - family: Gulliver
+      given: Huw
+    - family: Merrick
+      given: Ian
+    - family: Southgate
+      given: Joel
+    - family: Guest
+      given: Martyn
+    - family: Munn
+      given: Robert
+    - family: Workman
+      given: Trudy
+    - family: Connor
+      given: Thomas
+    - family: Fuller
+      given: William
+    - family: Bresner
+      given: Catherine
+    - family: Snell
+      given: Luke
+    - family: Patel
+      given: Amita
+    - family: Charalampous
+      given: Themoula
+    - family: Nebbia
+      given: Gaia
+    - family: Batra
+      given: Rahul
+    - family: Edgeworth
+      given: Jonathan
+    - family: Robson
+      given: Samuel
+    - family: Beckett
+      given: Angela
+    - family: Aanensen
+      given: David
+    - family: Underwood
+      given: Anthony
+    - family: Yeats
+      given: Corin
+    - family: Abudahab
+      given: Khalil
+    - family: Taylor
+      given: Ben
+    - family: Menegazzo
+      given: Mirko
+    - family: Clark
+      given: Gemma
+    - family: Smith
+      given: Wendy
+    - family: Khakh
+      given: Manjinder
+    - family: Fleming
+      given: Vicki
+    - family: Lister
+      given: Michelle
+    - family: Howson-Wells
+      given: Hannah
+    - family: Berry
+      given: Louise
+    - family: Boswell
+      given: Tim
+    - family: Joseph
+      given: Amelia
+    - family: Willingham
+      given: Iona
+    - family: Jones
+      given: Carl
+    - family: Holmes
+      given: Christopher
+    - family: Bird
+      given: Paul
+    - family: Helmer
+      given: Thomas
+    - family: Fallon
+      given: Karlie
+    - family: Tang
+      given: Julian
+    - family: Raviprakash
+      given: Veena
+    - family: Campbell
+      given: Sharon
+    - family: Sheriff
+      given: Nicola
+    - family: Blakey
+      given: Victoria
+    - family: Williams
+      given: Lesley-Anne
+    - family: Loose
+      given: Matthew
+    - family: Holmes
+      given: Nadine
+    - family: Moore
+      given: Christopher
+    - family: Carlile
+      given: Matthew
+    - family: Wright
+      given: Victoria
+    - family: Sang
+      given: Fei
+    - family: Debebe
+      given: Johnny
+    - family: Coll
+      given: Francesc
+    - family: Signell
+      given: Adrian
+    - family: Betancor
+      given: Gilberto
+    - family: Wilson
+      given: Harry
+    - family: Eldirdiri
+      given: Sahar
+    - family: Kenyon
+      given: Anita
+    - family: Davis
+      given: Thomas
+    - family: Pybus
+      given: Oliver
+    - family: Plessis
+      given: Louis
+      dropping-particle: du
+    - family: Zarebski
+      given: Alex
+    - family: Raghwani
+      given: Jayna
+    - family: Kraemer
+      given: Moritz
+    - family: Francois
+      given: Sarah
+    - family: Attwood
+      given: Stephen
+    - family: Vasylyeva
+      given: Tetyana
+    - family: Zamudio
+      given: Marina Escalera
+    - family: Gutierrez
+      given: Bernardo
+    - family: Torok
+      given: M. Estee
+    - family: Hamilton
+      given: William
+    - family: Goodfellow
+      given: Ian
+    - family: Hall
+      given: Grant
+    - family: Jahun
+      given: Aminu
+    - family: Chaudhry
+      given: Yasmin
+    - family: Hosmillo
+      given: Myra
+    - family: Pinckert
+      given: Malte
+    - family: Georgana
+      given: Iliana
+    - family: Moses
+      given: Samuel
+    - family: Lowe
+      given: Hannah
+    - family: Bedford
+      given: Luke
+    - family: Moore
+      given: Jonathan
+    - family: Stonehouse
+      given: Susanne
+    - family: Fisher
+      given: Chloe
+    - family: Awan
+      given: Ali
+    - family: BoYes
+      given: John
+    - family: Breuer
+      given: Judith
+    - family: Harris
+      given: Kathryn
+    - family: Brown
+      given: Julianne
+    - family: Shah
+      given: Divya
+    - family: Atkinson
+      given: Laura
+    - family: Lee
+      given: Jack
+    - family: Storey
+      given: Nathaniel
+    - family: Flaviani
+      given: Flavia
+    - family: Alcolea-Medina
+      given: Adela
+    - family: Williams
+      given: Rebecca
+    - family: Vernet
+      given: Gabrielle
+    - family: Chapman
+      given: Michael
+    - family: Levett
+      given: Lisa
+    - family: Heaney
+      given: Judith
+    - family: Chatterton
+      given: Wendy
+    - family: Pusok
+      given: Monika
+    - family: Xu-McCrae
+      given: Li
+    - family: Smith
+      given: Darren
+    - family: Bashton
+      given: Matthew
+    - family: Young
+      given: Gregory
+    - family: Holmes
+      given: Alison
+    - family: Randell
+      given: Paul
+    - family: Cox
+      given: Alison
+    - family: Madona
+      given: Pinglawathee
+    - family: Bolt
+      given: Frances
+    - family: Price
+      given: James
+    - family: Mookerjee
+      given: Siddharth
+    - family: Ragonnet-Cronin
+      given: Manon
+    - family: Nascimento
+      given: Fabricia F.
+    - family: Jorgensen
+      given: David
+    - family: Siveroni
+      given: Igor
+    - family: Johnson
+      given: Rob
+    - family: Boyd
+      given: Olivia
+    - family: Geidelberg
+      given: Lily
+    - family: Volz
+      given: Erik
+    - family: Rowan
+      given: Aileen
+    - family: Taylor
+      given: Graham
+    - family: Smollett
+      given: Katherine
+    - family: Loman
+      given: Nicholas
+    - family: Quick
+      given: Joshua
+    - family: McMurray
+      given: Claire
+    - family: Stockton
+      given: Joanne
+    - family: Nicholls
+      given: Sam
+    - family: Rowe
+      given: Will
+    - family: Poplawski
+      given: Radoslaw
+    - family: McNally
+      given: Alan
+    - family: Nunez
+      given: Rocio Martinez
+    - family: Mason
+      given: Jenifer
+    - family: Robinson
+      given: Trevor
+    - family: O'Toole
+      given: Elaine
+    - family: Watts
+      given: Joanne
+    - family: Breen
+      given: Cassie
+    - family: Cowell
+      given: Angela
+    - family: Sluga
+      given: Graciela
+    - family: Machin
+      given: Nicholas
+    - family: Ahmad
+      given: Shazaad
+    - family: George
+      given: Ryan
+    - family: Halstead
+      given: Fenella
+    - family: Sivaprakasam
+      given: Venkat
+    - family: Hogsden
+      given: Wendy
+    - family: Illingworth
+      given: Chris
+    - family: Jackson
+      given: Chris
+    - family: Thomson
+      given: Emma
+    - family: Shepherd
+      given: James
+    - family: Asamaphan
+      given: Patawee
+    - family: Niebel
+      given: Marc
+    - family: Li
+      given: Kathy
+    - family: Shah
+      given: Rajiv
+    - family: Jesudason
+      given: Natasha
+    - family: Tong
+      given: Lily
+    - family: Broos
+      given: Alice
+    - family: Mair
+      given: Daniel
+    - family: Nichols
+      given: Jenna
+    - family: Carmichael
+      given: Stephen
+    - family: Nomikou
+      given: Kyriaki
+    - family: Aranday-Cortes
+      given: Elihu
+    - family: Johnson
+      given: Natasha
+    - family: Starinskij
+      given: Igor
+    - family: Filipe
+      given: Ana da Silva
+    - family: Robertson
+      given: David
+    - family: Orton
+      given: Richard
+    - family: Hughes
+      given: Joseph
+    - family: Vattipally
+      given: Sreenu
+    - family: Singer
+      given: Joshua
+    - family: Nickbakhsh
+      given: Seema
+    - family: Hale
+      given: Antony
+    - family: Macfarlane-Smith
+      given: Louissa
+    - family: Harper
+      given: Katherine
+    - family: Carden
+      given: Holli
+    - family: Taha
+      given: Yusri
+    - family: Payne
+      given: Brendan
+    - family: Burton-Fanning
+      given: Shirelle
+    - family: Waugh
+      given: Sheila
+    - family: Collins
+      given: Jennifer
+    - family: Eltringham
+      given: Gary
+    - family: Rushton
+      given: Steven
+    - family: O'Brien
+      given: Sarah
+    - family: Bradley
+      given: Amanda
+    - family: Maclean
+      given: Alasdair
+    - family: Mollett
+      given: Guy
+    - family: Blacow
+      given: Rachel
+    - family: Templeton
+      given: Kate
+    - family: McHugh
+      given: Martin
+    - family: Dewar
+      given: Rebecca
+    - family: Wastenge
+      given: Elizabeth
+    - family: Dervisevic
+      given: Samir
+    - family: Stanley
+      given: Rachael
+    - family: Meader
+      given: Emma
+    - family: Coupland
+      given: Lindsay
+    - family: Smith
+      given: Louise
+    - family: Graham
+      given: Clive
+    - family: Barton
+      given: Edward
+    - family: Padgett
+      given: Debra
+    - family: Scott
+      given: Garren
+    - family: Swindells
+      given: Emma
+    - family: Greenaway
+      given: Jane
+    - family: Nelson
+      given: Andrew
+    - family: McCann
+      given: Clare
+    - family: Yew
+      given: Wen
+    - family: Andersson
+      given: Monique
+    - family: Peto
+      given: Timothy
+    - family: Justice
+      given: Anita
+    - family: Eyre
+      given: David
+    - family: Crook
+      given: Derrick
+    - family: Sloan
+      given: Tim
+    - family: Duckworth
+      given: Nichola
+    - family: Walsh
+      given: Sarah
+    - family: Chauhan
+      given: Anoop
+    - family: Glaysher
+      given: Sharon
+    - family: Bicknell
+      given: Kelly
+    - family: Wyllie
+      given: Sarah
+    - family: Elliott
+      given: Scott
+    - family: Lloyd
+      given: Allyson
+    - family: Impey
+      given: Robert
+    - family: Levene
+      given: Nick
+    - family: Monaghan
+      given: Lynn
+    - family: Bradley
+      given: Declan
+    - family: Wyatt
+      given: Tim
+    - family: Allara
+      given: Elias
+    - family: Pearson
+      given: Clare
+    - family: Osman
+      given: Husam
+    - family: Bosworth
+      given: Andrew
+    - family: Robinson
+      given: Esther
+    - family: Muir
+      given: Peter
+    - family: Vipond
+      given: Ian
+    - family: Hopes
+      given: Richard
+    - family: Pymont
+      given: Hannah
+    - family: Hutchings
+      given: Stephanie
+    - family: Curran
+      given: Martin
+    - family: Parmar
+      given: Surendra
+    - family: Lackenby
+      given: Angie
+    - family: Mbisa
+      given: Tamyo
+    - family: Platt
+      given: Steven
+    - family: Miah
+      given: Shahjahan
+    - family: Bibby
+      given: David
+    - family: Manso
+      given: Carmen
+    - family: Hubb
+      given: Jonathan
+    - family: Chand
+      given: Meera
+    - family: Dabrera
+      given: Gavin
+    - family: Ramsay
+      given: Mary
+    - family: Bradshaw
+      given: Daniel
+    - family: Thornton
+      given: Alicia
+    - family: Myers
+      given: Richard
+    - family: Schaefer
+      given: Ulf
+    - family: Groves
+      given: Natalie
+    - family: Gallagher
+      given: Eileen
+    - family: Lee
+      given: David
+    - family: Williams
+      given: David
+    - family: Ellaby
+      given: Nicholas
+    - family: Harrison
+      given: Ian
+    - family: Hartman
+      given: Hassan
+    - family: Manesis
+      given: Nikos
+    - family: Patel
+      given: Vineet
+    - family: Bishop
+      given: Chloe
+    - family: Chalker
+      given: Vicki
+    - family: Ledesma
+      given: Juan
+    - family: Twohig
+      given: Katherine
+    - family: Holden
+      given: Matthew
+    - family: Shaaban
+      given: Sharif
+    - family: Birchley
+      given: Alec
+    - family: Adams
+      given: Alexander
+    - family: Davies
+      given: Alisha
+    - family: Gaskin
+      given: Amy
+    - family: Plimmer
+      given: Amy
+    - family: Gatica-Wilcox
+      given: Bree
+    - family: McKerr
+      given: Caoimhe
+    - family: Moore
+      given: Catherine
+    - family: Williams
+      given: Chris
+    - family: Heyburn
+      given: David
+    - family: Lacy
+      given: Elen De
+    - family: Hilvers
+      given: Ember
+    - family: Downing
+      given: Fatima
+    - family: Shankar
+      given: Giri
+    - family: Jones
+      given: Hannah
+    - family: Asad
+      given: Hibo
+    - family: Coombes
+      given: Jason
+    - family: Watkins
+      given: Joanne
+    - family: Evans
+      given: Johnathan
+    - family: Fina
+      given: Laia
+    - family: Gifford
+      given: Laura
+    - family: Gilbert
+      given: Lauren
+    - family: Graham
+      given: Lee
+    - family: Perry
+      given: Malorie
+    - family: Morgan
+      given: Mari
+    - family: Bull
+      given: Matthew
+    - family: Cronin
+      given: Michelle
+    - family: Pacchiarini
+      given: Nicole
+    - family: Craine
+      given: Noel
+    - family: Jones
+      given: Rachel
+    - family: Howe
+      given: Robin
+    - family: Corden
+      given: Sally
+    - family: Rey
+      given: Sara
+    - family: Kumziene-SummerhaYes
+      given: Sara
+    - family: Taylor
+      given: Sarah
+    - family: Cottrell
+      given: Simon
+    - family: Jones
+      given: Sophie
+    - family: Edwards
+      given: Sue
+    - family: O'Grady
+      given: Justin
+    - family: Page
+      given: Andrew
+    - family: Mather
+      given: Alison
+    - family: Baker
+      given: David
+    - family: Rudder
+      given: Steven
+    - family: Aydin
+      given: Alp
+    - family: Kay
+      given: Gemma
+    - family: Trotter
+      given: Alexander
+    - family: Alikhan
+      given: Nabil-Fareed
+    - family: Martins
+      given: Leonardo de Oliveira
+    - family: Le-Viet
+      given: Thanh
+    - family: Meadows
+      given: Lizzie
+    - family: Casey
+      given: Anna
+    - family: Ratcliffe
+      given: Liz
+    - family: Simpson
+      given: David
+    - family: Molnar
+      given: Zoltan
+    - family: Thompson
+      given: Thomas
+    - family: Acheson
+      given: Erwan
+    - family: Masoli
+      given: Jane
+    - family: Knight
+      given: Bridget
+    - family: Ellard
+      given: Sian
+    - family: Auckland
+      given: Cressida
+    - family: Jones
+      given: Christopher
+    - family: Mahungu
+      given: Tabitha
+    - family: Irish-Tavares
+      given: Dianne
+    - family: Haque
+      given: Tanzina
+    - family: Hart
+      given: Jennifer
+    - family: Witele
+      given: Eric
+    - family: Fenton
+      given: Melisa
+    - family: Dadrah
+      given: Ashok
+    - family: Symmonds
+      given: Amanda
+    - family: Saluja
+      given: Tranprit
+    - family: Bourgeois
+      given: Yann
+    - family: Scarlett
+      given: Garry
+    - family: Loveson
+      given: Katie
+    - family: Goudarzi
+      given: Salman
+    - family: Fearn
+      given: Christopher
+    - family: Cook
+      given: Kate
+    - family: Dent
+      given: Hannah
+    - family: Paul
+      given: Hannah
+    - family: Partridge
+      given: David
+    - family: Raza
+      given: Mohammad
+    - family: Evans
+      given: Cariad
+    - family: Johnson
+      given: Kate
+    - family: Liggett
+      given: Steven
+    - family: Baker
+      given: Paul
+    - family: Bonner
+      given: Stephen
+    - family: Essex
+      given: Sarah
+    - family: Lyons
+      given: Ronan
+    - family: Saeed
+      given: Kordo
+    - family: Mahanama
+      given: Adhyana
+    - family: Samaraweera
+      given: Buddhini
+    - family: Silveira
+      given: Siona
+    - family: Pelosi
+      given: Emanuela
+    - family: Wilson-Davies
+      given: Eleri
+    - family: Williams
+      given: Rachel
+    - family: Kristiansen
+      given: Mark
+    - family: Roy
+      given: Sunando
+    - family: Williams
+      given: Charlotte
+    - family: Cotic
+      given: Marius
+    - family: Bayzid
+      given: Nadua
+    - family: Westhorpe
+      given: Adam
+    - family: Hartley
+      given: John
+    - family: Jannoo
+      given: Riaz
+    - family: Lowe
+      given: Helen
+    - family: Karamani
+      given: Angeliki
+    - family: Ensell
+      given: Leah
+    - family: Prieto
+      given: Jacqui
+    - family: Jeremiah
+      given: Sarah
+    - family: Grammatopoulos
+      given: Dimitris
+    - family: Pandey
+      given: Sarojini
+    - family: Berry
+      given: Lisa
+    - family: Jones
+      given: Katie
+    - family: Richter
+      given: Alex
+    - family: Beggs
+      given: Andrew
+    - family: Best
+      given: Angus
+    - family: Percival
+      given: Benita
+    - family: Mirza
+      given: Jeremy
+    - family: Megram
+      given: Oliver
+    - family: Mayhew
+      given: Megan
+    - family: Crawford
+      given: Liam
+    - family: Ashcroft
+      given: Fiona
+    - family: Moles-Garcia
+      given: Emma
+    - family: Cumley
+      given: Nicola
+    - family: Smith
+      given: Colin
+    - family: Bucca
+      given: Giselda
+    - family: Hesketh
+      given: Andrew
+    - family: Blane
+      given: Beth
+    - family: Girgis
+      given: Sophia
+    - family: Leek
+      given: Danielle
+    - family: Sridhar
+      given: Sushmita
+    - family: Forrest
+      given: Sally
+    - family: Cormie
+      given: Claire
+    - family: Gill
+      given: Harmeet
+    - family: Dias
+      given: Joana
+    - family: Higginson
+      given: Ellen
+    - family: Maes
+      given: Mailis
+    - family: Young
+      given: Jamie
+    - family: Kermack
+      given: Leanne
+    - family: Gupta
+      given: Ravi
+    - family: Ludden
+      given: Catherine
+    - family: Peacock
+      given: Sharon
+    - family: Palmer
+      given: Sophie
+    - family: Churcher
+      given: Carol
+    - family: Hadjirin
+      given: Nazreen
+    - family: Carabelli
+      given: Alessandro
+    - family: Brooks
+      given: Ellena
+    - family: Smith
+      given: Kim
+    - family: Galai
+      given: Katerina
+    - family: McManus
+      given: Georgina
+    - family: Ruis
+      given: Chris
+    - family: Davidson
+      given: Rose
+    - family: Rambaut
+      given: Andrew
+    - family: Williams
+      given: Thomas
+    - family: Balcazar
+      given: Carlos
+    - family: Gallagher
+      given: Michael
+    - family: O'Toole
+      given: Áine
+    - family: Rooke
+      given: Stefan
+    - family: Hill
+      given: Verity
+    - family: Williamson
+      given: Kathleen
+    - family: Stanton
+      given: Thomas
+    - family: Michell
+      given: Stephen
+    - family: Bewshea
+      given: Claire
+    - family: Temperton
+      given: Ben
+    - family: Michelsen
+      given: Michelle
+    - family: Warwick-Dugdale
+      given: Joanna
+    - family: Manley
+      given: Robin
+    - family: Farbos
+      given: Audrey
+    - family: Harrison
+      given: James
+    - family: Sambles
+      given: Christine
+    - family: Studholme
+      given: David
+    - family: Jeffries
+      given: Aaron
+    - family: Jackson
+      given: Leigh
+    - family: Darby
+      given: Alistair
+    - family: Hiscox
+      given: Julian
+    - family: Paterson
+      given: Steve
+    - family: Iturriza-Gomara
+      given: Miren
+    - family: Jackson
+      given: Kathryn
+    - family: Lucaci
+      given: Anita
+    - family: Vamos
+      given: Edith
+    - family: Hughes
+      given: Margaret
+    - family: Rainbow
+      given: Lucille
+    - family: Eccles
+      given: Richard
+    - family: Nelson
+      given: Charlotte
+    - family: Whitehead
+      given: Mark
+    - family: Turtle
+      given: Lance
+    - family: Haldenby
+      given: Sam
+    - family: Gregory
+      given: Richard
+    - family: Gemmell
+      given: Matthew
+    - family: Wierzbicki
+      given: Claudia
+    - family: Webster
+      given: Hermione
+    - family: Silva
+      given: Thushan
+      dropping-particle: de
+    - family: Smith
+      given: Nikki
+    - family: Angyal
+      given: Adrienn
+    - family: Lindsey
+      given: Benjamin
+    - family: Groves
+      given: Danielle
+    - family: Green
+      given: Luke
+    - family: Wang
+      given: Dennis
+    - family: Freeman
+      given: Timothy
+    - family: Parker
+      given: Matthew
+    - family: Keeley
+      given: Alexander
+    - family: Parsons
+      given: Paul
+    - family: Tucker
+      given: Rachel
+    - family: Brown
+      given: Rebecca
+    - family: Wyles
+      given: Matthew
+    - family: Whiteley
+      given: Max
+    - family: Zhang
+      given: Peijun
+    - family: Gallis
+      given: Marta
+    - family: Louka
+      given: Stavroula
+    - family: Constantinidou
+      given: Chrystala
+    - family: Unnikrishnan
+      given: Meera
+    - family: Ott
+      given: Sascha
+    - family: Cheng
+      given: Jeffrey
+    - family: Bridgewater
+      given: Hannah
+    - family: Frost
+      given: Lucy
+    - family: Taylor-Joyce
+      given: Grace
+    - family: Stark
+      given: Richard
+    - family: Baxter
+      given: Laura
+    - family: Alam
+      given: Mohammad
+    - family: Brown
+      given: Paul
+    - family: Aggarwal
+      given: Dinesh
+    - family: Cerda
+      given: Alberto
+    - family: Merrill
+      given: Tammy
+    - family: Wilson
+      given: Rebekah
+    - family: McClure
+      given: Patrick
+    - family: Chappell
+      given: Joseph
+    - family: Tsoleridis
+      given: Theocharis
+    - family: Ball
+      given: Jonathan
+    - family: Buck
+      given: David
+    - family: Todd
+      given: John
+    - family: Green
+      given: Angie
+    - family: Trebes
+      given: Amy
+    - family: MacIntyre-Cockett
+      given: George
+    - family: Cesare
+      given: Mariateresa
+      dropping-particle: de
+    - family: Alderton
+      given: Alex
+    - family: Amato
+      given: Roberto
+    - family: Ariani
+      given: Cristina
+    - family: Beale
+      given: Mathew
+    - family: Beaver
+      given: Charlotte
+    - family: Bellis
+      given: Katherine
+    - family: Betteridge
+      given: Emma
+    - family: Bonfield
+      given: James
+    - family: Danesh
+      given: John
+    - family: Dorman
+      given: Matthew
+    - family: Drury
+      given: Eleanor
+    - family: Farr
+      given: Ben
+    - family: Foulser
+      given: Luke
+    - family: Goncalves
+      given: Sonia
+    - family: Goodwin
+      given: Scott
+    - family: Gourtovaia
+      given: Marina
+    - family: Harrison
+      given: Ewan
+    - family: Jackson
+      given: David
+    - family: Jamrozy
+      given: Dorota
+    - family: Johnston
+      given: Ian
+    - family: Kane
+      given: Leanne
+    - family: Kay
+      given: Sally
+    - family: Keatley
+      given: Jon-Paul
+    - family: Kwiatkowski
+      given: Dominic
+    - family: Langford
+      given: Cordelia
+    - family: Lawniczak
+      given: Mara
+    - family: Letchford
+      given: Laura
+    - family: Livett
+      given: Rich
+    - family: Lo
+      given: Stephanie
+    - family: Martincorena
+      given: Inigo
+    - family: McGuigan
+      given: Samantha
+    - family: Nelson
+      given: Rachel
+    - family: Palmer
+      given: Steve
+    - family: Park
+      given: Naomi
+    - family: Patel
+      given: Minal
+    - family: Prestwood
+      given: Liam
+    - family: Puethe
+      given: Christoph
+    - family: Quail
+      given: Michael
+    - family: Rajatileka
+      given: Shavanthi
+    - family: Scott
+      given: Carol
+    - family: Shirley
+      given: Lesley
+    - family: Sillitoe
+      given: John
+    - family: Chapman
+      given: Michael Spencer
+    - family: Thurston
+      given: Scott
+    - family: Tonkin-Hill
+      given: Gerry
+    - family: Weldon
+      given: Danni
+    - family: Rajan
+      given: Diana
+    - family: Bronner
+      given: Iraad
+    - family: Aigrain
+      given: Louise
+    - family: Redshaw
+      given: Nicholas
+    - family: Lensing
+      given: Stefanie
+    - family: Davies
+      given: Robert
+    - family: Whitwham
+      given: Andrew
+    - family: Liddle
+      given: Jennifier
+    - family: Lewis
+      given: Kevin
+    - family: Tovar-Corona
+      given: Jaime
+    - family: Leonard
+      given: Steven
+    - family: Durham
+      given: Jillian
+    - family: Bassett
+      given: Andrew
+    - family: McCarthy
+      given: Shane
+    - family: Moll
+      given: Robin
+    - family: James
+      given: Keith
+    - family: Oliver
+      given: Karen
+    - family: Makunin
+      given: Alex
+    - family: Barrett
+      given: Jeff
+    - family: Gunson
+      given: Rory
+  container-title: The Lancet Infectious Diseases
+  container-title-short: The Lancet Infectious Diseases
+  DOI: 10.1016/S1473-3099(21)00475-8
+  ISSN: 1473-3099, 1474-4457
+  issue: '0'
+  issued:
+    - year: 2021
+      month: 8
+      day: 27
+  language: English
+  publisher: Elsevier
+  source: www.thelancet.com
+  title: >-
+    Hospital admission and emergency care attendance risk for SARS-CoV-2 delta
+    (B.1.617.2) compared with alpha (B.1.1.7) variants of concern: a cohort
+    study
+  title-short: >-
+    Hospital admission and emergency care attendance risk for SARS-CoV-2 delta
+    (B.1.617.2) compared with alpha (B.1.1.7) variants of concern
+  type: article-journal
+  URL: >-
+    https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00475-8/abstract
+  volume: '0'
+
+- id: vacharathit2021CoronaVacInduces
+  abstract: >-
+    The inactivated whole-virus CoronaVac vaccine (Sinovac Biotech, Beijing,
+    China) has
+
+    been approved for emergency use in mass vaccination programmes in Thailand
+    and is
+
+    widely available in many low-income countries. Results from a phase 1–2
+    clinical trial
+
+    of CoronaVac were recently published in this journal,1 and a large,
+    observational
+
+    study in Chile further estimated that two doses of CoronaVac had vaccine
+    effectiveness
+
+    of 65·9% against COVID-19, 87·5% against hospitalisation, 90·3% against
+    intensive
+
+    care unit admission, and 86·3% against death, with values adjusted for
+    potential effects
+
+    of age and sex.
+  accessed:
+    - year: 2021
+      month: 8
+      day: 27
+  author:
+    - family: Vacharathit
+      given: Vimvara
+    - family: Aiewsakun
+      given: Pakorn
+    - family: Manopwisedjaroen
+      given: Suwimon
+    - family: Srisaowakarn
+      given: Chanya
+    - family: Laopanupong
+      given: Thanida
+    - family: Ludowyke
+      given: Natali
+    - family: Phuphuakrat
+      given: Angsana
+    - family: Setthaudom
+      given: Chavachol
+    - family: Ekronarongchai
+      given: Supanuch
+    - family: Srichatrapimuk
+      given: Sirawat
+    - family: Wongsirisin
+      given: Pattama
+    - family: Sangrajrang
+      given: Suleeporn
+    - family: Imsuwansri
+      given: Thanarath
+    - family: Kirdlarp
+      given: Suppachok
+    - family: Nualkaew
+      given: Sureeporn
+    - family: Sensorn
+      given: Insee
+    - family: Sawaengdee
+      given: Waritta
+    - family: Wichukchinda
+      given: Nuanjun
+    - family: Sungkanuparph
+      given: Somnuek
+    - family: Chantratita
+      given: Wasun
+    - family: Kunakorn
+      given: Mongkol
+    - family: Rojanamatin
+      given: Jinda
+    - family: Hongeng
+      given: Suradej
+    - family: Thitithanyanont
+      given: Arunee
+  container-title: The Lancet Infectious Diseases
+  container-title-short: The Lancet Infectious Diseases
+  DOI: 10.1016/S1473-3099(21)00568-5
+  ISSN: 1473-3099, 1474-4457
+  issue: '0'
+  issued:
+    - year: 2021
+      month: 8
+      day: 26
+  language: English
+  publisher: Elsevier
+  source: www.thelancet.com
+  title: >-
+    CoronaVac induces lower neutralising activity against variants of concern
+    than natural infection
+  type: article-journal
+  URL: >-
+    https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00568-5/abstract
+  volume: '0'
+
+- id: verma2021MyocarditisCovid19
+  accessed:
+    - year: 2021
+      month: 8
+      day: 26
+  author:
+    - family: Verma
+      given: Amanda K.
+    - family: Lavine
+      given: Kory J.
+    - family: Lin
+      given: Chieh-Yu
+  container-title: New England Journal of Medicine
+  container-title-short: N. Engl. J. Med.
+  DOI: 10.1056/NEJMc2109975
+  ISSN: 0028-4793
+  issue: '0'
+  issued:
+    - year: 2021
+      month: 8
+      day: 18
+  note: '_eprint: https://doi.org/10.1056/NEJMc2109975'
+  page: 'null'
+  publisher: Massachusetts Medical Society
+  source: Taylor and Francis+NEJM
+  title: Myocarditis after Covid-19 mRNA Vaccination
+  type: article-journal
+  URL: https://doi.org/10.1056/NEJMc2109975
+  volume: '0'
+
+- id: wang2021AirborneTransmission
+  abstract: >-
+    Mechanisms of airborne transmission
+
+    The COVID-19 pandemic has highlighted controversies and unknowns about how
+    respiratory pathogens spread between hosts. Traditionally, it was thought
+    that respiratory pathogens spread between people through large droplets
+    produced in coughs and through contact with contaminated surfaces (fomites).
+    However, several respiratory pathogens are known to spread through small
+    respiratory aerosols, which can float and travel in air flows, infecting
+    people who inhale them at short and long distances from the infected person.
+    Wang et al. review recent advances in understanding airborne transmission
+    gained from studying the spread of severe acute respiratory syndrome
+    coronavirus 2 (SARS-CoV-2) infections and other respiratory pathogens. The
+    authors suggest that airborne transmission may be the dominant form of
+    transmission for several respiratory pathogens, including SARS-CoV-2, and
+    that further understanding of the mechanisms underlying infection from the
+    airborne route will better inform mitigation measures.
+
+    Science, abd9149, this issue p. eabd9149
+
+    Structured Abstract
+
+    BACKGROUNDExposure to droplets produced in the coughs and sneezes of
+    infected individuals or contact with droplet-contaminated surfaces (fomites)
+    have been widely perceived as the dominant transmission modes for
+    respiratory pathogens. Airborne transmission is traditionally defined as
+    involving the inhalation of infectious aerosols or “droplet nuclei” smaller
+    than 5 μm and mainly at a distance of >1 to 2 m away from the infected
+    individual, and such transmission has been thought to be relevant only for
+    “unusual” diseases. However, there is robust evidence supporting the
+    airborne transmission of many respiratory viruses, including severe acute
+    respiratory syndrome coronavirus (SARS-CoV), Middle East respiratory
+    syndrome (MERS)–CoV, influenza virus, human rhinovirus, and respiratory
+    syncytial virus (RSV). The limitations of traditional views of droplet,
+    fomite, and airborne transmission were illuminated during the COVID-19
+    pandemic. Droplet and fomite transmission of SARS-CoV-2 alone cannot account
+    for the numerous superspreading events and differences in transmission
+    between indoor and outdoor environments observed during the COVID-19
+    pandemic. Controversy surrounding how COVID-19 is transmitted and what
+    interventions are needed to control the pandemic has revealed a critical
+    need to better understand the airborne transmission pathway of respiratory
+    viruses, which will allow for better-informed strategies to mitigate the
+    transmission of respiratory infections.
+
+    ADVANCESRespiratory droplets and aerosols can be generated by various
+    expiratory activities. Advances in aerosol measurement techniques, such as
+    aerodynamic and scanning mobility particle sizing, have shown that the
+    majority of exhaled aerosols are smaller than 5 μm, and a large fraction are
+    <1 μm for most respiratory activities, including those produced during
+    breathing, talking, and coughing. Exhaled aerosols occur in multiple size
+    modes that are associated with different generation sites and production
+    mechanisms in the respiratory tract. Although 5 μm has been used
+    historically to distinguish aerosols from droplets, the size distinction
+    between aerosols and droplets should be 100 μm, which represents the largest
+    particle size that can remain suspended in still air for more than 5 s from
+    a height of 1.5 m, typically reach a distance of 1 to 2 m from the emitter
+    (depending on the velocity of airflow carrying the aerosols), and can be
+    inhaled. Aerosols produced by an infected individual may contain infectious
+    viruses, and studies have shown that viruses are enriched in small aerosols
+    (<5 μm). The transport of virus-laden aerosols is affected by the
+    physicochemical properties of aerosols themselves and environmental factors,
+    including temperature, relative humidity, ultraviolet radiation, airflow,
+    and ventilation. Once inhaled, virus-laden aerosols can deposit in different
+    parts of the respiratory tract. Larger aerosols tend to be deposited in the
+    upper airway; however, smaller aerosols, although they can also be deposited
+    there, can penetrate deep into the alveolar region of the lungs. The strong
+    effect of ventilation on transmission, the distinct difference between
+    indoor and outdoor transmission, well-documented long-range transmission,
+    the observed transmission of SARS-CoV-2 despite the use of masks and eye
+    protection, the high frequency of indoor superspreading events of
+    SARS-CoV-2, animal experiments, and airflow simulations provide strong and
+    unequivocal evidence for airborne transmission. Fomite transmission of
+    SARS-CoV-2 has been found to be far less efficient, and droplets are only
+    dominant when individuals are within 0.2 m of each other when talking.
+    Although both aerosols and droplets can be produced by infected individuals
+    during expiratory activities, droplets fall quickly to the ground or
+    surfaces within seconds, leaving an enrichment of aerosols over droplets.
+    The airborne pathway likely contributes to the spread of other respiratory
+    viruses whose transmission was previously characterized as droplet driven.
+    The World Health Organization (WHO) and the US Centers for Disease Control
+    and Prevention (CDC) have officially acknowledged the inhalation of
+    virus-laden aerosols as a main transmission mode in spreading COVID-19 at
+    both short and long ranges in 2021.
+
+    OUTLOOKAirborne transmission of pathogens has been vastly underappreciated,
+    mostly because of an insufficient understanding about the airborne behavior
+    of aerosols and at least partially because of the misattribution of
+    anecdotal observations. Given the lack of evidence for droplet and fomite
+    transmission and the increasingly strong evidence for aerosols in
+    transmitting numerous respiratory viruses, we must acknowledge that airborne
+    transmission is much more prevalent than previously recognized. Given all
+    that we have learned about SARS-CoV-2 infection, the aerosol transmission
+    pathway needs to be reevaluated for all respiratory infectious diseases.
+    Additional precautionary measures must be implemented for mitigating aerosol
+    transmission at both short and long ranges, with particular attention to
+    ventilation, airflows, air filtration, UV disinfection, and mask fit. These
+    interventions are critical tools for ending the current pandemic and
+    preventing future outbreaks. <img class="fragment-image"
+    aria-describedby="F1-caption"
+    src="https://science.sciencemag.org/content/sci/373/6558/eabd9149/F1.medium.gif"/>
+    Download high-res image Open in new tab Download Powerpoint Phases involved
+    in airborne transmission of respiratory viruses.Virus-laden aerosols (<100
+    I1/4m) are first generated by an infected individual through expiratory
+    activities, through which they are exhaled and transported in the
+    environment. They may be inhaled by a potential host to initiate a new
+    infection, provided that they remain infectious. In contrast to droplets
+    (>100 I1/4m), aerosols can linger in air for hours and travel beyond 1 to 2
+    m from the infected individual who exhales them, causing new infections at
+    both short and long ranges.CREDIT: N. CARY/SCIENCE
+
+    The COVID-19 pandemic has revealed critical knowledge gaps in our
+    understanding of and a need to update the traditional view of transmission
+    pathways for respiratory viruses. The long-standing definitions of droplet
+    and airborne transmission do not account for the mechanisms by which
+    virus-laden respiratory droplets and aerosols travel through the air and
+    lead to infection. In this Review, we discuss current evidence regarding the
+    transmission of respiratory viruses by aerosols—how they are generated,
+    transported, and deposited, as well as the factors affecting the relative
+    contributions of droplet-spray deposition versus aerosol inhalation as modes
+    of transmission. Improved understanding of aerosol transmission brought
+    about by studies of severe acute respiratory syndrome coronavirus 2
+    (SARS-CoV-2) infection requires a reevaluation of the major transmission
+    pathways for other respiratory viruses, which will allow better-informed
+    controls to reduce airborne transmission.
+
+    A Review discusses the scientific basis of and factors controlling airborne
+    transmission of respiratory viruses, including coronaviruses.
+
+    A Review discusses the scientific basis of and factors controlling airborne
+    transmission of respiratory viruses, including coronaviruses.
+  accessed:
+    - year: 2021
+      month: 8
+      day: 27
+  author:
+    - family: Wang
+      given: Chia C.
+    - family: Prather
+      given: Kimberly A.
+    - family: Sznitman
+      given: Josué
+    - family: Jimenez
+      given: Jose L.
+    - family: Lakdawala
+      given: Seema S.
+    - family: Tufekci
+      given: Zeynep
+    - family: Marr
+      given: Linsey C.
+  container-title: Science
+  DOI: 10.1126/science.abd9149
+  ISSN: 0036-8075, 1095-9203
+  issue: '6558'
+  issued:
+    - year: 2021
+      month: 8
+      day: 27
+  language: en
+  note: An exceptional review of aerosol science.
+  source: science.sciencemag.org
+  title: Airborne transmission of respiratory viruses
+  type: article-journal
+  URL: https://science.sciencemag.org/content/373/6558/eabd9149
+  volume: '373'
+
+- id: wu2021PreliminaryAnalysis
+  abstract: >-
+    Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is the
+    causative agent of a global pandemic of coronavirus disease 2019 (COVID-19)
+    that has led to more than 3 million deaths worldwide. Safe and effective
+    vaccines are now available, including the mRNA-1273 prototype vaccine, which
+    encodes for the Wuhan SARS-CoV-2 spike (S) protein stabilized in the
+    prefusion conformation by 2 proline substitutions. This vaccine showed 94%
+    efficacy in prevention of symptomatic COVID-19 disease in a phase 3 clinical
+    study. Recently, SARS-CoV-2 variants have emerged, some of which have shown
+    decreased susceptibility to neutralization by vaccine-induced antibody, most
+    notably the B.1.351 variant, although the overall impact on vaccine efficacy
+    remains to be determined. In addition, recent evidence of waning antibody
+    levels after infection or vaccination point to the need for periodic
+    boosting of immunity. Here we present the preliminary evaluation of a
+    clinical study on the use of the prototype mRNA-1273 or modified COVID-19
+    mRNA vaccines, designed to target emerging SARS-CoV-2 variants as booster
+    vaccines in participants previously vaccinated approximately 6 months
+    earlier with two doses of the prototype vaccine, mRNA-1273. The modified
+    vaccines include a monovalent mRNA-1273.351 encoding for the S protein found
+    in the B.1.351 variant and multivalent mRNA-1273.211 comprising a 1:1 mix of
+    mRNA-1273 and mRNA-1273.351. As single 50 µg booster vaccinations, both
+    mRNA-1273 and mRNA-1273.351 had acceptable safety profiles and were
+    immunogenic. Antibody neutralization titers against B.1.351 and P.1 variants
+    measured by SARS-CoV-2 pseudovirus neutralization (PsVN) assays before the
+    booster vaccinations, approximately 6 to 8 months after the primary series,
+    were low or below the assay limit of quantification, although geometric mean
+    titers versus the wild-type strain remained above levels likely to be
+    protective. Two weeks after the booster vaccinations, titers against the
+    wild-type original strain, B.1.351, and P.1 variants increased to levels
+    similar to or higher than peak titers after the primary series vaccinations.
+    Although both mRNA-1273 and mRNA-1273.351 boosted neutralization of the
+    wild-type original strain, and B.1.351 and P.1 variants, mRNA-1273.351
+    appeared to be more effective at increasing neutralization of the B.1.351
+    virus versus a boost with mRNA-1273. The vaccine trial is ongoing and
+    boosting of clinical trial participants with the multivalent mRNA-1273.211
+    is currently being evaluated.
+  accessed:
+    - year: 2021
+      month: 8
+      day: 26
+  author:
+    - family: Wu
+      given: Kai
+    - family: Choi
+      given: Angela
+    - family: Koch
+      given: Matthew
+    - family: Ma
+      given: LingZhi
+    - family: Hill
+      given: Anna
+    - family: Nunna
+      given: Naveen
+    - family: Huang
+      given: Wenmei
+    - family: Oestreicher
+      given: Judy
+    - family: Colpitts
+      given: Tonya
+    - family: Bennett
+      given: Hamilton
+    - family: Legault
+      given: Holly
+    - family: Paila
+      given: Yamuna
+    - family: Nestorova
+      given: Biliana
+    - family: Ding
+      given: Baoyu
+    - family: Pajon
+      given: Rolando
+    - family: Miller
+      given: Jacqueline M.
+    - family: Leav
+      given: Brett
+    - family: Carfi
+      given: Andrea
+    - family: McPhee
+      given: Roderick
+    - family: Edwards
+      given: Darin K.
+  DOI: 10.1101/2021.05.05.21256716
+  issued:
+    - year: 2021
+      month: 5
+      day: 6
+  language: en
+  page: 2021.05.05.21256716
+  publisher: Cold Spring Harbor Laboratory Press
+  source: medRxiv
+  title: >-
+    Preliminary Analysis of Safety and Immunogenicity of a SARS-CoV-2 Variant
+    Vaccine Booster
+  type: article
+  URL: https://www.medrxiv.org/content/10.1101/2021.05.05.21256716v1
+...
