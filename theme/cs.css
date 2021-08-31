@@ -122,15 +122,19 @@ d-appendix {
 }
 
 .d-contents nav a {
-  color: rgba(0, 0, 0, 0.8);
+  color: rgba(0, 0, 0, 0.7);
   line-height: 1.5em;
 }
 
 .d-contents nav a:hover {
-  color: rgba(0, 0, 0, 0.8);
+  color: rgba(0, 0, 0, 1);
+  /* border-bottom-width: 1px;
+  border-bottom-color: rgba(0, 0, 0, 0.8);
+  border-bottom-style: solid; */
 }
 
 .d-contents nav > ul > li > a {
+  padding-top: 0.3em;
   font-weight: 600;
 }
 
@@ -140,6 +144,7 @@ d-appendix {
 
 .d-contents nav > ul > li > ul > li {
   font-size: 12px !important;
+  padding-bottom: 0.3em;
 }
 
 .d-contents nav ul {
@@ -166,6 +171,7 @@ d-article {
 d-article h2 {
   border-bottom-width: 1px;
   border-bottom-style: solid;
+  padding-bottom: 0.5em;
   border-bottom-color: hsla(300, 50, 50, 0.5);
   font-size: 30px;
 }
@@ -174,7 +180,7 @@ d-article h3 {
   border-bottom-width: 1px;
   border-bottom-style: solid;
   border-bottom-color: hsla(205, 100%, 25%, 0.5);
-  padding-bottom: 1rem;
+  padding-bottom: 0.5em;
   font-weight: 500;
 }
 
@@ -196,11 +202,11 @@ d-article .citation a {
 }
 
 .tippy-box {
-  padding: 8px;
-  font-size: 15px !important;
+  padding: 1em;
+  font-size: 14px !important;
   line-height: 1.6 !important;
   border: 1px solid rgba(0, 0, 0, 0.08);
-  background-color: rgba(250, 250, 250, 0.95) !important;
+  background-color: rgba(252, 252, 252, 0.85) !important;
   backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(4px);
 }
@@ -221,4 +227,10 @@ d-appendix {
 d-appendix h3 {
   margin-top: 12px !important;
   margin-left: auto;
+}
+
+.csl-entry {
+  padding-bottom: 0.5em;
+  /* white-space: pre-line; */
+  /* white-space: pre; */
 }
