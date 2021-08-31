@@ -21,4 +21,7 @@ RUN R -e "options(Ncpus = 2); \
 RUN mkdir -p /github/workspace
 WORKDIR /github/workspace
 
+# Default theme
+COPY theme/ /github/workspace/theme/
+
 CMD r -e "rmarkdown::render(\"index.Rmd\", output_dir = \"./public\", output_format = \"all\")"
