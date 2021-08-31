@@ -9,13 +9,14 @@
     <author>
       <name>Michael Berkowitz</name>
       <email>mberkowi@gmu.edu</email>
+      <name>Chaichontat Sriworarat</name>
     </author>
     <category citation-format="numeric" />
     <category field="science" />
     <category field="generic-base" />
     <issn>0028-0836</issn>
     <eissn>1476-4687</eissn>
-    <updated>2019-10-10T03:01:26+00:00</updated>
+    <updated>2021-08-31T12:52:34+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <macro name="title">
@@ -101,6 +102,7 @@
       </else>
     </choose>
   </macro>
+
   <citation collapse="citation-number">
     <sort>
       <key variable="citation-number" />
@@ -109,11 +111,11 @@
       <text variable="citation-number" />
     </layout>
   </citation>
-  <bibliography et-al-min="6" et-al-use-first="1" second-field-align="flush" entry-spacing="0" line-spacing="2">
+  <bibliography et-al-min="6" et-al-use-first="1" entry-spacing="0" line-spacing="2">
     <layout suffix=".">
-      <text variable="citation-number" suffix="." />
-      <group delimiter=" ">
-        <text macro="author" suffix="." font-weight="bold" />
+      <text variable="citation-number" suffix="." display="left-margin" />
+      <group delimiter=" " display="right-inline">
+        <text macro="author" suffix="." />
         <text macro="title" suffix="." />
         <choose>
           <if type="chapter paper-conference" match="any">
@@ -127,6 +129,7 @@
         <text macro="issuance" />
         <text macro="access" />
       </group>
+      <text variable="note" display="right-inline" font-weight="bold" />
     </layout>
   </bibliography>
 </style>
