@@ -22,6 +22,7 @@ env:
   IMAGE_NAME: ${{ github.repository }}
   FIREBASE_PROJECT_ID: github-pages-c50b1
   FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_GITHUB_PAGES_C50B1 }}
+  TAG: ghcr.io/chaichontat/calligrapher:main
 
 jobs:
   build_and_run:
@@ -63,7 +64,7 @@ jobs:
           context: .
           load: true # Send to local Docker instance
           # push: ${{ github.event_name != 'pull_request' }}
-          tags: ${{ steps.meta.outputs.tags }}
+          tags: ${{ env.TAG }}
           labels: ${{ steps.meta.outputs.labels }}
           cache-from: type=local,src=/tmp/.buildx-cache
           cache-to: type=local,dest=/tmp/.buildx-cache
@@ -74,11 +75,11 @@ jobs:
         with:
           context: .
           load: true
-          tags: ${{ steps.meta.outputs.tags }}
+          tags: ${{ env.TAG }}
           labels: ${{ steps.meta.outputs.labels }}
 
       - name: Run
-        run: docker run -i -v ${{ github.workspace }}:/github/workspace ${{ steps.meta.outputs.tags }}
+        run: docker run -i -v ${{ github.workspace }}:/github/workspace ${{ env.TAG }}
 
       - name: Upload Artifact
         uses: actions/upload-artifact@v2
@@ -99,7 +100,7 @@ jobs:
 
       - name: Push Docker image
         if: github.event_name != 'pull_request'
-        run: docker push ${{ steps.meta.outputs.tags }}
+        run: docker push ${{ env.TAG }}
 
   deploy:
     needs: build_and_run
