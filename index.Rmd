@@ -1,7 +1,8 @@
 ---
-title: "Untitled"
-# description: |
-#   A new article created using the Distill format.
+title: Booster et al.
+description: |
+  Review of the literature on COVID-19 vaccine boosters.
+  DEMO ARTICLE NOT FOR CLINICAL USE.
 author:
   - name: Chaichontat Sriworarat
     affiliation: Johns Hopkins University
@@ -15,35 +16,36 @@ output:
     css: theme/cs.css
 ---
 
-Distill is a publication format for scientific and technical writing, native to the web.
+```{r setup, include=FALSE}
+library(knitr)
+```
 
-## Introduction
+> To boost or not to boost. That is the question.
 
-### Connecting People and Data
+## The Waning Problem
+Recent reports have indicated potential "waning" of vaccine protection against COVID-19, especially in BNT162b2 [@chemaitelly2021WaningBNT162b2].
 
-As visual designers are well aware, and as journalism researchers have confirmed empirically 
-[36]
-, an audience which finds content to be aesthetically pleasing is more likely to have a positive attitude towards it. This in turn means people will spend more time engaging with content and ultimately lead to improved learning outcomes. While engagement itself may not be an end goal of most research communications, 
+```{r, echo=FALSE, layout="l-body-outset"}
+include_graphics("assets/fig1.png")
+```
 
-### Making Systems Playful
+This is in tandem with reports of declining neutralizing titer.
 
-As visual designers are well aware, and as journalism researchers have confirmed empirically 
-[36]
-, an audience which finds content to be aesthetically pleasing is more likely to have a positive attitude towards it. This in turn means people will spend more time engaging with content and ultimately lead to improved learning outcomes. While engagement itself may not be an end goal of most research communications, 
+### Vaccine Efficacy
 
-### O
+All of the reports so far have suggested that major vaccine efficacy decreases occur only in protection against infection, both asymptomatic and symptomatic, but not for hospitalization and death.
 
-### P
+## Are boosters the solution?
 
-Somehow this works.
+The answer depends strongly on our end goal and limits in vaccine supply.
 
-Learn more about using [Distill](https://rstudio.github.io/distill) for R Markdown.
+### Constrained Supply
 
-Very interesting [@wang2021AirborneTransmission; @tang2021BNT162b2MRNA1273].
+Ethics direct that we should direct the vaccines toward the people who would benefit the most, that is, those in middle- and low-income countries.
 
+### Unconstrained Supply
 
-## Sub 2
+In this case, we need to conduct a cost-benefit analysis, especially in light of reports of myocarditis in young adults [@verma2021MyocarditisCovid19]. Can the potential increase in protection against "mild" infection outweigh the risks?
 
-As visual designers are well aware, and as journalism researchers have confirmed empirically 
-[36]
-, an audience which finds content to be aesthetically pleasing is more likely to have a positive attitude towards it. This in turn means people will spend more time engaging with content and ultimately lead to improved learning outcomes. While engagement itself may not be an end goal of most research communications, 
+## Conclusion
+
