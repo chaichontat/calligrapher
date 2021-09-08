@@ -73,6 +73,10 @@ d-appendix {
 /*-- Additional custom styles --*/
 /* Add any additional CSS rules below */
 
+.d-title {
+  padding-bottom: 0em;
+}
+
 @media (min-width: 1000px) {
   .toc {
     padding-right: 3em;
@@ -172,7 +176,7 @@ d-article h2 {
   border-bottom-width: 1px;
   border-bottom-style: solid;
   padding-bottom: 0.5em;
-  border-bottom-color: hsla(300, 50, 50, 0.5);
+  border-bottom-color: rgba(104, 7, 134, 0.5);
   font-size: 30px;
 }
 
@@ -201,12 +205,18 @@ d-article .citation a {
   border-bottom: none;
 }
 
+/* d-article blockquote {
+  line-height: 1em;
+  height: 1em;
+  margin-bottom: 0em !important;
+} */
+
 .tippy-box {
   padding: 1em;
-  font-size: 14px !important;
+  font-size: 15px !important;
   line-height: 1.6 !important;
   border: 1px solid rgba(0, 0, 0, 0.08);
-  background-color: rgba(252, 252, 252, 0.85) !important;
+  background-color: rgba(252, 252, 252, 0.9) !important;
   backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(4px);
 }
