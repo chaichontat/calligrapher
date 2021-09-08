@@ -2347,9 +2347,10 @@ references:
     - year: 2021
       month: 8
       day: 18
-  note: '_eprint: https://doi.org/10.1056/NEJMc2109975'
+  note: >-
+    Case report of two adult patients with fulminant myocarditis that had
+    happened within 2 weeks of vaccination with mRNA vaccines.
   page: 'null'
-  publisher: Massachusetts Medical Society
   source: Taylor and Francis+NEJM
   title: Myocarditis after Covid-19 mRNA Vaccination
   type: article-journal
